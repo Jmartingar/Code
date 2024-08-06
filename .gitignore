@@ -1,0 +1,4 @@
+./test-env/*
+./iris/bezdekIris.data
+./iris/iris.names
+./iris/Index
