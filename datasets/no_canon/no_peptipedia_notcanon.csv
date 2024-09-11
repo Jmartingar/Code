@@ -1,4 +1,4 @@
-wsequence,half_life_seconds,in_peptipedia
+sequence,half_life_seconds,in_peptipedia
 LP-(NMe)-FFD,[86400.0],False
 LP-(NMe)-FF-(NMe)-D,[86400.0],False
 LP-(NMe)-F-(NMe)-FD,[86400.0],False
