@@ -1,0 +1,7 @@
+quitar <br> de plifepred
+dejar una columna con true o false si estan modificados
+dejar una columna con la modificacion
+TODO ESTO PARA plifepred
+revisar si los dos dataset de plifepred tienen los mismos datos
+calcular frecuencia de aminoacidos totales
+filtrar peptidos de largo minimo 70
