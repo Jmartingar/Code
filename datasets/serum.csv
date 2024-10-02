@@ -1,6 +1,5 @@
 sequence,half_life_seconds,modifications,is_mod
 (PEG)2-KWKLFKKIFKRIVQRIKDFLR-NH2,3600.0,PEGylation,True
-N.A.,10800.0,Cyclization/Methylation,True
 Ac-KLKLKLKLKLKLKLKLKKLKKLKKLKKLKKLKKLKKL-NH2,64800.0,Branched,True
 Ac-IWIAQELRXIGDXFNAYYARR-NH2,56880.0,Stapled,True
 Ac-FMHNLWKWLSSMERVEWLRKKLQDVHNF-NH2,5400.0,α to β replacement,True
