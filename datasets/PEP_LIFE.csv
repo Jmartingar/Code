@@ -1,8 +1,20 @@
 sequence,half_life_seconds,modifications,is_mod
+RRWQWR,1800.0,C-Terminal Amidation,True
+RRWWRF,1800.0,C-Terminal Amidation,True
+RRWQWR,3600.0,N-Terminal,True
+RRWWRF,3600.0,N-Terminal,True
+RRWQWR,5400.0,"C-Terminal Amidation, N-Terminal",True
+RRWWRF,5400.0,"C-Terminal Amidation, N-Terminal",True
+RRWQWR,86400.0,Cyclic,True
+RRWWRF,86400.0,Cyclic,True
 CRRWQWRC,5400.0,"C-Terminal Amidation, Cyclic",True
+CRRWWRFC,23400.0,"C-Terminal Amidation, Cyclic",True
+CRRWWRFC,23400.0,"C-Terminal Amidation, N-Terminal, Cyclic",True
 RRWQWRMKKLG,6600.0,Cyclic,True
 CRRWQWRMKKLGC,6600.0,"C-Terminal Amidation, Cyclic",True
 ALCDNPRIDRWYCQFVEG,456.0,"C-Terminal Amidation, N-Terminal",True
+HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,43200.0,N-Terminal,True
+HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,195.0,C-Terminal Amidation,True
 LP-(NMe)-FFD,86400.0,"C-Terminal Amidation, N-Terminal, Chemical Modification: NMe",True
 LP-(NMe)-FF-(NMe)-D,86400.0,"C-Terminal Amidation, N-Terminal, Chemical Modification: NMe",True
 LP-(NMe)-F-(NMe)-FD,86400.0,"C-Terminal Amidation, N-Terminal, Chemical Modification: NMe",True
@@ -21,29 +33,48 @@ KΨ[CH2NH]KΨ[CH2NH]VVFKVKFk,4860.0,"Stereochemistry, Chemical Modification: Red
 KΨ[CH2OCONH]KVVFKVKFk,1380.0,"Stereochemistry, Chemical Modification: Reduced carbamate ΨCH2OCONH",True
 KΨ[CH2OCONH]KΨ[CH2OCONH]VVFKVKFk,4020.0,"Stereochemistry, Chemical Modification: Reduced carbamate ΨCH2OCONH",True
 kKVVFKVKFk,1320.0,Stereochemistry,True
+HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,43200.0,"C-Terminal Amidation, N-Terminal",True
 TaLIDNNATEEILY,252.0,Stereochemistry,True
 TaIIDNNKTEKEISY,150.0,Stereochemistry,True
+APPRLICDSRVLERYLLEAKEAENITTGCAEHCSLNENITVPDTKVNFYAWKRMEVGQQAVEVWQGLALLSEAVLRGQALLVNSSQPWEPLQLHVDKAVSGLRSLTTLLRALGAQKEAISPPDAASAAPLRTITADTFRKLFRVYSNFLRGKLKLYTGEACRTGDR,30600.0,"Cyclic, Chemical Modification: Three N-linked carbohydrate chains",True
+APPRLICDSRVLERYLLEAKEAENITTGCAEHCSLNENITVPDTKVNFYAWKRMEVGQQAVEVWQGLALLSEAVLRGQALLVNSSQPWEPLQLHVDKAVSGLRSLTTLLRALGAQKEAISPPDAASAAPLRTITADTFRKLFRVYSNFLRGKLKLYTGEACRTGDR,91080.0,"Cyclic, Chemical Modification: Five N-linked carbohydrate chains",True
+H-Aib-EGTFTSDVSSYLEGQAAKEFIAWLVK-Aib-R,35280.0,"C-Terminal Amidation, Chemical Modification: Aib--Aminoisobutyric acid",True
+HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,9900.0,C-Terminal Amidation,True
+HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,21960.0,"C-Terminal Amidation, Chemical Modification: 5 kDa PEG at Cys at 39th position",True
+HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,177840.0,"C-Terminal Amidation, Chemical Modification: 20 kDa PEG at Cys at 39th position",True
+HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,253800.0,"C-Terminal Amidation, Chemical Modification: 30 kDa PEG at Cys at 39th position",True
+HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,275040.0,"C-Terminal Amidation, Chemical Modification: 40 kDa PEG at Cys at 39th position",True
 H-Aib-EGTFTSDVSSYLEGQAAKEFIAWLVKGR,21240.0,"C-Terminal Amidation, Chemical Modification: Aib--Aminoisobutyric acid",True
 HAEGTFTSDVSSYLEGQAAKEFIAWLVK-Aib-R,7200.0,"C-Terminal Amidation, Chemical Modification: Aib--Aminoisobutyric acid",True
 VRRADRAAVPGGGGRG,475200.0,N-Terminal,True
+GGFAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,3240.0,C-Terminal Amidation,True
+GGFAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,3960.0,"C-Terminal Amidation, N-Terminal",True
 GFFAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,2520.0,"C-Terminal Amidation, N-Terminal",True
 GfFAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,3240.0,"C-Terminal Amidation, N-Terminal, Stereochemistry",True
+GVFAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,16920.0,"C-Terminal Amidation, N-Terminal",True
 GvFAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,18360.0,"C-Terminal Amidation, N-Terminal, Stereochemistry",True
 G-tBu-FAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,604800.0,"C-Terminal Amidation, N-Terminal, Chemical Modification: tBu=tertiary butyl",True
 G-PhG-FAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,1800.0,"C-Terminal Amidation, N-Terminal, Chemical Modification: PhG=phenylglycine",True
 G-Aib-FAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,2880.0,"C-Terminal Amidation, N-Terminal, Chemical Modification: Aib=α-aminoisobutyric acid",True
+GVFAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,73440.0,C-Terminal Amidation,True
 FGFAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,9000.0,"C-Terminal Amidation, N-Terminal",True
 FAFAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,10080.0,"C-Terminal Amidation, N-Terminal",True
 FaFAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,8640.0,"C-Terminal Amidation, N-Terminal",True
 FFFAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,119880.0,"C-Terminal Amidation, N-Terminal",True
 FfFAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,27720.0,"C-Terminal Amidation, N-Terminal",True
+FVFAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,604800.0,"C-Terminal Amidation, N-Terminal",True
 FvFAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,182160.0,"C-Terminal Amidation, N-Terminal",True
+FVFAEGTFTSDVSSYLEGQAAKEFIAWLVKGRPSSGAPPPS,230400.0,C-Terminal Amidation,True
 YaGFMPLW,17280.0,Stereochemistry,True
 YaGF-Nle-PLW,21600.0,"Stereochemistry, Chemical Modification: Nle=norleucine",True
 YaGF-Nle-P-Ser(Glc)-W,21600.0,"Stereochemistry, Chemical Modification: Nle=norleucine, O-β-glucosylated serine",True
 YaGF-Nle-PL-Ser(Glc)-W,86400.0,"Stereochemistry, Chemical Modification: Nle=norleucine, O-β-glucosylated serine",True
 AEGTFTSDVSSYLEGQAAREFIAWLVK(Oct)GRG,3960.0,"N-Terminal, Chemical Modification: Oct-octanoic moiety",True
 HGEGTFTSDLSKQLEEEAVRLFIEWLKNGGPSSGAPPPS,18000.0,C-Terminal Amidation,True
+YADAIFTNSYRKVLGQLSARKLLQDIMSR,900.0,C-Terminal Amidation,True
+YADAIFTNSYRKVLGQLSARKLLQDIMSR,36000.0,"C-Terminal Amidation, Chemical Modification: PEGylation on Lys12",True
+YADAIFTNSYRKVLGQLSARKLLQDIMSR,12960.0,"C-Terminal Amidation, Chemical Modification: PEGylation",True
+YADAIFTNSYRKVLGQLSARKLLQDIMSR,14400.0,"C-Terminal Amidation, Chemical Modification: PEGylation on Lys21",True
 GSIGAASMEF,2.7013,N-Terminal,True
 IGAASMEFCF,0.0629,N-Terminal,True
 AASMEFCFDV,0.0556,N-Terminal,True
@@ -420,6 +451,8 @@ CIKHIATNAVLFFGRC,0.0025,N-Terminal,True
 KHIATNAVLFFGRCVS,0.0008,N-Terminal,True
 HIATNAVLFFGRCVSP,0.0009,N-Terminal,True
 GSSFLSPEHQKAQQRKESKKPPAKLQPR,990.0,"Chemical Modification: Fatty acid ie n-octanoic acid present at serine at position 3, 125I labelling",True
+HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,70.2,"C-Terminal Amidation, Chemical Modification: Biotinylation at Lys at 34th position",True
+HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,260.4,"C-Terminal Amidation, Chemical Modification: Biotinylation at Lys at 34th and 26th position",True
 RRWRIVVIRVRR,3600.0,C-Terminal Amidation,True
 Agp-Agp-W-Agp-IVVI-Agp-V-Agp-Agp,28800.0,"C-Terminal Amidation, Chemical Modification: Agp=αamino-3-guanidino-propionic acid",True
 aRRWRIVVIRVRRh,3600.0,"C-Terminal Amidation, Stereochemistry",True
@@ -427,6 +460,7 @@ a-Agp-Agp-W-Agp-IVVI-Agp-V-Agp-Agp-h,28800.0,"C-Terminal Amidation, Stereochemis
 NDWF-Dpr-L,2640.0,"N-Terminal, Cyclic, Chemical Modification: Dpr-2,3-Diaminopropionic acid",True
 SSLKQYWSSLKQSFS,20400.0,N-Terminal,True
 Glp-PPGGSKVILF,420.0,Chemical Modification: Glp-Pyroglutamic acid,True
+AGCKNFFWKTFTSC,60.0,Cyclic,True
 ECG,96.0,Chemical Modification: Gamma peptide linkage between the carboxyl group of the glutamate side-chain and the amine group of cysteine,True
 SDKP,4800.0,N-Terminal,True
 H(2me)wAWfK,4554.0,"C-Terminal Amidation, Stereochemistry, Chemical Modification: 2me-2-methyltryptophan",True
@@ -437,11 +471,19 @@ CYIQNCPLG,406.8,"C-Terminal Amidation, Cyclic",True
 YIGSR,132.0,N-Terminal,True
 SLRRSSCFGGRIDRIGAQSGLGCNSFRY,25.2,Cyclic,True
 SLRRSSGGRIDRIGAQSGLGCNSFRY,62.4,Cyclic,True
+HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,1300.2,"C-Terminal Amidation, Chemical Modification: Pegylation at Lysine",True
 (Pen)-Y(Me)-ARGDN-Tic-C,72000.0,"C-Terminal Amidation, N-Terminal, Chemical Modification: Pen=Penicillamine, Methylation at Tyrosine, Tic=tetrahydroisoquinoline carboxylic acid",True
+HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,453600.0,"C-Terminal Amidation, Chemical Modification: Pegylation at N terminus His7",True
+HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,268260.0,"C-Terminal Amidation, Chemical Modification: Pegylation on Lys34",True
 WDREINNYTSLIH,410400.0,"C-Terminal Amidation, N-Terminal",True
 WDREINNYTSLIHWDREINNYTSLIH,151200.0,"C-Terminal Amidation, N-Terminal",True
 CNGRCGGK,32760.0,"C-Terminal Amidation, N-Terminal, Cyclic",True
+R-X-R,3600.0,Chemical Modification: X= structure given in paper,True
 R-BIP-R,126000.0,Chemical Modification: BIP,True
+R-Bip-R,126000.0,Chemical Modification: BIP,True
+R-Bip-R,126000.0,Chemical Modification: Bip,True
+R-Bip-R,25200.0,"N-Terminal, Chemical Modification: Bip",True
+R-X-R,417600.0,"C-Terminal Amidation, Chemical Modification: X= structure given in paper",True
 Chex-RPNKPRPYLPRPRPPRPVR-Dab-RVPRPPRPRPLYPRPKNPR-Chex,6000.0,"N-Terminal, Chemical Modification: Dab =2,4-diamino-butyric acid",True
 ((POG)5 (PQGPGGPPG) (POG)5)3,580.0,"C-Terminal Amidation, N-Terminal",True
 ((POG)5 (PQGPGSPPG) (POG)5)3,910.0,"C-Terminal Amidation, N-Terminal",True
@@ -453,6 +495,7 @@ Chex-RPNKPRPYLPRPRPPRPVR-Dab-RVPRPPRPRPLYPRPKNPR-Chex,6000.0,"N-Terminal, Chemic
 (POG)5 (PQGPGSPPG) (POG)5 (PKG)5 (PQGPGSPPG) (PKG)5 (POG)5 (PVGAASATG) (POG)5,470.0,"C-Terminal Amidation, N-Terminal",True
 WVTH[Cit]LAGLLS[Cit]SGGVV[hArg]KN[2-Nal]V[Oic]TDVG[Oic]FA[2-Nal],136800.0,"C-Terminal Amidation, N-Terminal",True
 IRRADRAAVPGGGGRGD,9724.8,N-Terminal,True
+SLRRSSCFGGRMDRIGAQSGLGCNSFRY,156.0,Cyclic,True
 SLRRSSCFGGRMDRIGAQSGLGCNSFRYRITAREDKQGWA,270.0,Cyclic,True
 HGEGTFTSDVSSYLEGQAAKEFIAWLVAGR,97200.0,"C-Terminal Amidation, N-Terminal",True
 NISHTKEKKKGKAKKKRLTK,774.0,N-Terminal,True
@@ -460,16 +503,25 @@ YcGFCPLW,21600.0,"Cyclic, Stereochemistry",True
 YcGFcPLW,17640.0,"Cyclic, Stereochemistry",True
 YcGF-Nle-PCW,21600.0,"Cyclic, Stereochemistry, Chemical Modification: Nle",True
 YcGF-Nle-PcW,21600.0,"Cyclic, Stereochemistry, Chemical Modification: Nle",True
+HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,420.0,"C-Terminal Amidation, Chemical Modification: Radiolabelling of GLP-1by [123I]",True
 HSDGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,780.0,Chemical Modification: Radiolabelling of exendin 3 at position 1 histidine,True
+SPKMVQGSGCFGRKMDRISSSSGLGCKVLRRH,40320.0,N-Terminal,True
 KPSSPPEE,7200.0,"C-Terminal Amidation, N-Terminal",True
+HSDGIFTDSYSRYRKQMAVKKYLAAVLGKRYKQRVKNK,1380.0,C-Terminal Amidation,True
+HSDGIFTDSYSRYRKQMAVKKYLAAVLGKRYKQRVKNK,14400.0,"C-Terminal Amidation, N-Terminal",True
 H-Aib-DGIFTDSYSRYRKQMAVKKYLAAVLGKRYKQRVKNK,3900.0,C-Terminal Amidation,True
 HsDGIFTDSYSRYRKQMAVKKYLAAVLGKRYKQRVKNK,14400.0,"C-Terminal Amidation, Stereochemistry",True
+HSDGIFTDSYSRYRKQMAVKKYLAAVLGKRYKQRVKNK,1080.0,"C-Terminal Amidation, Chemical Modification: [ψCH2-NH21-22]",True
 HSDGIFTDSYSRYRKQMAVAKYLAAVLGKRYKQRVKNK,498.0,C-Terminal Amidation,True
 HSDGIFTDSYSRYRKQMAVKAYLAAVLGKRYKQRVKNK,396.0,C-Terminal Amidation,True
+HSDGIFTDSYSRYRKQMAVKKYLAAVLGKRYKQRVKNK,14400.0,N-Terminal,True
 HSDGIFTDSYSRYAKQMAVAKYLAAVLGKRYKQRVKNK,14400.0,N-Terminal,True
 HSDGIFTDSYSRYRAQMAVAKYLAAVLGKRYKQRVKNK,14400.0,N-Terminal,True
+HSDGIFTDSYSRYRKQMAVKKYLAAVL,2340.0,C-Terminal Amidation,True
+HSDGIFTDSYSRYRKQMAVKKYLAAVL,14400.0,"C-Terminal Amidation, N-Terminal",True
 H-Aib-DGIFTDSYSRYRKQMAVKKYLAAVL,8700.0,"C-Terminal Amidation, Chemical Modification: Aib",True
 HsDGIFTDSYSRYRKQMAVKKYLAAVL,14400.0,C-Terminal Amidation,True
+HSDGIFTDSYSRYRKQMAVKKYLAAVL,14400.0,N-Terminal,True
 "N5-(aminoiminomethyl)-N2-(3- mercapto-1-oxopropyl)-L-arginylglycyl-L-α -aspartyl-L-α -trypotophyl-L-α -prolyl-L-α -cysteinamide,cyclic(1→ 6)-disulfide",8406.0,Cyclic,True
 "L-Cysteinamide, D-phenylalanyl-L-cysteinyl-L-phenylalanyl-D-tryptophyl-L-lysyl-Lthreonyl-N-[2-hydroxy-1-(hydroxymethyl)propyl]",3126.0,"Cyclic, Stereochemistry, Chemical Modification: 2-hydroxy-1-hydroxymethyl",True
 DRQIKIWFQNRRMKWKKRKIPTEDEY,32364.0,N-Terminal,True
@@ -477,9 +529,27 @@ YaG-MePhe-G,552.0,"Stereochemistry, Chemical Modification: Methylation at phenyl
 GGLYACHMGPIT-Nal-VCQPLRSar-Peg-SarRLPQCV-Nal-TIPGMHCAYLGG,68400.0,"N-Terminal, Cyclic, Chemical Modification: Nal, Pegylation",True
 GGLYACHMGPIT-Nal-VYQPLRS-Peg-SRLPQYV-Nal-TIPGMHCAYLGG,122400.0,"N-Terminal, Cyclic, Chemical Modification: Nal, Pegylation",True
 YRWYGYTPQNVIGGGKLlLKlLkkLLKlLKKK,564.0,Stereochemistry,True
+N-MeVal-EtPro-N-MeThr-Leu-MePro-AMHA-Pro-N-MeLeu- Gly,1800.0,"N-Terminal, Cyclic, Chemical Modification: N-MeVal; N-methylvaline, EtPro; Ethylproline, N-MeThr; N-methylthreonine MePro; Methylproline, AMHA; 2-amino-5-methylhexanoic acid, N-MeLeu; N-methylleucine",True
+N-MeVal-EtPro-N-MeThr-Leu-MePro-AMHA-Pro-N-MeLeu- Gly,19800.0,"Cyclic, Chemical Modification: N-MeVal; N-methylvaline, EtPro; Ethylproline, N-MeThr; N-methylthreonine MePro; Methylproline, AMHA; 2-amino-5-methylhexanoic acid, N-MeLeu; N-methylleucine",True
+HSDAVFTDNYTRLRKQMAVKKYLNSILN,108.0,C-Terminal Amidation,True
 GCTFRRLKWKCG,4620.0,Cyclic,True
 GCKPTFRRLKWKYKCG,5040.0,Cyclic,True
 YGGFLRRl,2640.0,"N-Terminal, Stereochemistry, Chemical Modification: Methylation on Arg7 and Tyr1",True
+ELAGIGILTV,86400.0,Chemical Modification: Methylation of nitrogen of amide bond b/w Glu1 and Leu2 NMe; Methylation of carboxyl of Leu8,True
+ELAGIGILTV,43200.0,"C-Terminal Amidation, Chemical Modification: Methylation of nitrogen of amide bond b/w Glu1 and Leu2 NMe",True
+PyroGlu-LAGIGILTV,39600.0,"C-Terminal Amidation, N-Terminal, Chemical Modification: Pyroglutamic acid",True
+PyroGlu-LAGIGILTV,86400.0,"N-Terminal, Chemical Modification: Methylation of carboxyl of Leu8",True
+ALAGIGILTV,39600.0,"C-Terminal Amidation, N-Terminal",True
+ALAGIGILTV,86400.0,"N-Terminal, Chemical Modification: Methylation of carboxyl of Leu8",True
+ELAGIGILTV,72000.0,"C-Terminal Amidation, N-Terminal",True
+ELAGIGILTV,86400.0,"N-Terminal, Chemical Modification: Methylation of carboxyl of Leu8",True
+DLAGIGILTV,43200.0,"C-Terminal Amidation, N-Terminal",True
+DLAGIGILTV,86400.0,"N-Terminal, Chemical Modification: Methylation of carboxyl of Leu8",True
+GLAGIGILTV,46800.0,"C-Terminal Amidation, N-Terminal",True
+GLAGIGILTV,86400.0,"N-Terminal, Chemical Modification: Methylation of carboxyl of Leu8",True
+ELAGIGILTV,86400.0,Chemical Modification: Methylation of carboxyl of Leu2 and Leu8,True
+ELAGIGILTV,43200.0,"C-Terminal Amidation, Chemical Modification: Methylation of carboxyl of Leu2",True
+ELAGIGILTV,86400.0,Chemical Modification: Methylation of carboxyl of Leu2 and amino-group of Thr9 used in peptide bond,True
 ELAGIGILtV,86400.0,"Stereochemistry, Chemical Modification: Methylation of carboxyl of Leu2",True
 βALAGIGILTV,86400.0,"N-Terminal, Chemical Modification: Reduced bond between Leu8 and Thr9",True
 EACNLPIVRGPCIAFFPRWAFDAVKGKCVLFPYGGCQGNGNKFYSEKECREYCGVP,210000.0,N-Terminal,True
@@ -489,10 +559,12 @@ VQQRKESKKPPAKLQPRCFGGRMDRIGAQSGLGCNSFRY,2400.0,Cyclic,True
 RPQLKAPPKKSEKRQQVCFGGRMDRIGAQSGLGCNSFRY,1632.0,Cyclic,True
 GLSKGCFGLKLDRIGSMSGLGC,468.0,Cyclic,True
 RPQLKAPPKKSEKRQQVCFGLKLDRIGSMSGLGC,1242.0,Cyclic,True
+CFGLKLDRIGSMSGLGCVQQRKESKKPPAKLQPR,1440.0,Cyclic,True
 GLSKGFGLKLDRISMSGLGCVQQRKESKKPPAKLQPR,1218.0,Cyclic,True
 CFGLKLDRIGSMSGLGCVQQRKESKKPPAKLQPRESKKPPAKLQPR,1104.0,Cyclic,True
 RPQLKAPPKKSEKRQQVCFGLKLDRIGSMSGLGCVQQRKESKKPPAKLQPR,1042.8,Cyclic,True
 VQQRKESKKPPAKLQPRCFGLKLDRIGSMSGLGC,1065.0,Cyclic,True
+CFGLKLDRIGSMSGLGCVQQRKESKKPPAKLQPR,870.0,"C-Terminal Amidation, Cyclic",True
 GLSKGCFGLKLDRIGSMSGLGCVQQRKDSKKPPAKLQPR,1874.4,Cyclic,True
 CFGLKLDRIGSMSGLGCAGSVDHKGKQRKWDHPKR,1081.8,Cyclic,True
 DLRVDTKSRAAWARLLQEHPNARKYKGANKKGLSKGGLSKGCFGLKLDRIGSMSGLGC,943.2,Cyclic,True
@@ -500,9 +572,13 @@ HGDGSFSDEMNTILDNLAARDFINWLIQTLITD,5400.0,C-Terminal Amidation,True
 YaDAIFTQSYRKVLAQLSARKLLQDILSRL,92880.0,Stereochemistry,True
 YGGFLRRIRPK,1800.0,C-Terminal Amidation,True
 K-Sar-htrGtf,66960.0,"C-Terminal Amidation, Stereochemistry, Chemical Modification: Sar= sarcosine",True
+HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,223200.0,N-Terminal,True
+HGEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,219600.0,Chemical Modification: Pegylation at K27,True
 GEGTFTSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPS,248400.0,"N-Terminal, Chemical Modification: Pegylation at K27",True
 VEGTFTSDVSSYLEEQAAKEFIAWLIKGGPSSGAPPPCC,97200.0,"N-Terminal, Chemical Modification: Pegylation at K20 and K28",True
 WQEWEQKITALLEQAQIQQEKNEYELQKLDKWASLWEWF,7272.0,"C-Terminal Amidation, N-Terminal",True
+CDLPQTHSLGSRRTLMLLAQMRKISLFSCLKDRHDFGFPQEEFGNQFQKAETIPVLHEMIQQIFNLFSTKDSSAAWDETLLDKFYTELYQQLNDLEACVIQGVGVTETPLMKEDSILAVRKYFQRITLYLKEKKYSPCAWEVVRAEIMRSFSLSTNLQESLRSKE,234000.0,"N-Terminal, Cyclic",True
+CDLPQTHSLGSRRTLMLLAQMRKISLFSCLKDRHDFGFPQEEFGNQFQKAETIPVLHEMIQQIFNLFSTKDSSAAWDETLLDKFYTELYQQLNDLEACVIQGVGVTETPLMKEDSILAVRKYFQRITLYLKEKKYSPCAWEVVRAEIMRSFSLSTNLQESLRSKE,3600.0,"Cyclic, Chemical Modification: Glycosylation at Thr-105",True
 ELYENKP-N3-Hlys-RPYIL,9180.0,Chemical Modification: N3-L-Hlys at 8th arginine position,True
 ELYENKP-N3-1d-RPYIL,12660.0,Chemical Modification: N3-1d= COOH-CHNH2CH2-CH23-CH2-NHMe at 8th arginine position,True
 ELYENKP-N3-2-RPYIL,7560.0,Chemical Modification: N3-2= COOH-CHNH2CH2-CH23-CH2-NMe2at 8th arginine position,True
@@ -529,15 +605,22 @@ GG,1080.0,"N-Terminal, Chemical Modification: Conjugation of peptide C terminal 
 AL,6120.0,"N-Terminal, Chemical Modification: Conjugation of peptide C terminal carboxyl group with amino group of  5 Fluorocytosine",True
 LL,10440.0,"N-Terminal, Chemical Modification: Conjugation of peptide C terminal carboxyl group with amino group of  5 Fluorocytosine",True
 AG,8280.0,"N-Terminal, Chemical Modification: Conjugation of peptide C terminal carboxyl group with amino group of  5 Fluorocytosine",True
+YGGFL,5640.0,Chemical Modification: Thiomethylene bond replacement between residue 1-2,True
+YGGFL,4764.0,Chemical Modification: Thiomethylene bond replacement between residue 2-3,True
+YGGFL,18900.0,Chemical Modification: Thiomethylene bond replacement between residue 4-5,True
 YaGFL,60000.0,"Stereochemistry, Chemical Modification: Thiomethylene bond replacement between residue 3-4",True
 PLG,1200.0,Chemical Modification: Tritium labeling at Proline,True
 SANSNPAMAPRERKAGCKNFFWKTFTSC,168.0,Cyclic,True
 SSCFGGRIDRIGAQSGLGCNSFRY,150.0,"Cyclic, Chemical Modification: I125 radiolabeled",True
 WMDF,780.0,C-Terminal Amidation,True
 YMGWMDF,150.0,C-Terminal Amidation,True
+DYMGWMDF,1080.0,C-Terminal Amidation,True
+DYMGWMDF,3000.0,"C-Terminal Amidation, Chemical Modification: Sulphation of Tyrosine residue at position 2",True
 RDYWGWLDF,162.0,"C-Terminal Amidation, Chemical Modification: Sulphation of Tyrosine residue at position 3",True
+DRDYMGWMDF,1800.0,"C-Terminal Amidation, Chemical Modification: Sulphation of tyrosine residue at position 4",True
 YAFGYPS,78.0,Chemical Modification: I125 radiolabeled,True
 ADSGEGDFLAEGGGVR,30.0,Chemical Modification: DAT-FPA was labeled with 125-iodine or with 123-iodine by chloramine-T,True
+CYFQNCPRG,124567320.0,Cyclic,True
 HDEFERHAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,126.0,C-Terminal Amidation,True
 RPD,60.0,"N-Terminal, Chemical Modification: C14 Radiolabeling",True
 pGlu-NC(C)PRG,2400.0,"C-Terminal Amidation, Chemical Modification: pGlu = pyroglutamate",True
@@ -545,27 +628,54 @@ NCPR,600.0,Chemical Modification: At 2 position cystine is replaced by cysteine,
 pGlu-NSPRG,540.0,"C-Terminal Amidation, Chemical Modification: pGlu = pyroglutamate",True
 rPKPfQwFwLL,2754.0,"C-Terminal Amidation, Stereochemistry",True
 Mpr-Har-GDWPC,4068.0,"C-Terminal Amidation, N-Terminal, Cyclic",True
+YGG,2760.0,"Chemical Modification: Peptide bonds at position 1,2 was replaced by thioamide linkages",True
+YGG,10800.0,"Chemical Modification: Peptide bonds at position 2,3 was replaced by thioamide linkage",True
+DPLPEF,1800.0,C-Terminal Amidation,True
 p-[Cl-Phe4]DPLPEF,18000.0,Chemical Modification: Para chlorination of amino group of phenylalanine,True
 p-[Br-Phe4]DPLPEF,18000.0,Chemical Modification: Para bromination of amino group of phenylalanine,True
 p-[F-Phe4]DPLPEF,18000.0,Chemical Modification: Para florination of amino group of phenylalanine,True
 p-[I-Phe4]DPLPEF,18000.0,Chemical Modification: Para iodination of amino group of phenylalanine,True
+DPLPEF,18000.0,Chemical Modification: Hydroxylation of amino group of Phenylalanine,True
+HSDAVFTDNYTRLRKQMAVKKYLNSILN,317.4,Chemical Modification: I125 radiolabeling and encapsulation of VIP in Liposome,True
+HSDAVFTDNYTRLRKQMAVKKYLNSILN,37.2,Chemical Modification: I125 radiolabeling,True
 MEPLGWQLTSGPNQEQVSPLTLLK,1140.0,Chemical Modification: I125 radiolabeling,True
 NQEQVSPLTLLK,1260.0,Chemical Modification: Biotinylation at lysine residueposition 24,True
+GPETLCGAELVDALQFVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRRLEMYCAPLKPAKSA,118.8,Chemical Modification: I125 radiolabeling,True
 GPATLCGAELVDALQFVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRRLEMYCAPLKPAKSA,115.2,Chemical Modification: I125 radiolabeling,True
 CSCSSLMDKECVYFCHLDIIW,40.0,Chemical Modification: Labelled with I125,True
 pGlu-HWSTGLRPG,418.2,"C-Terminal Amidation, Chemical Modification: pGlu=pyroglutamic acid, Tritium labeling",True
 FCFWKTCT,6780.0,Cyclic,True
 pGlu-HWSYwLRP,354.0,"Stereochemistry, Chemical Modification: pGlu=pyroglutamic acid",True
 SVTLFGESAGAASVSLHLLSPGSHSLFTR,7200.0,Chemical Modification: Methylcarbamylated at serine position 8,True
+AGCKNFFWKTFTSC,97200.0,"N-Terminal, Cyclic, Chemical Modification: Glycosylation",True
+GPETLCGAELVDALQFVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRRLEMYCAPLKPAKSA,480.0,Chemical Modification: I125 labeling,True
+MFPAMPLSSLFVNGPRTLCGAELVDALQFVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRRLEMYCAPLKPAKSA,3000.0,"N-Terminal, Chemical Modification: I125 labeling",True
 rPKPfQwFwLLRPKPQQFFGLM,32400.0,Stereochemistry,True
 RwFWLMRPKPQQFFGLM,75240.0,"Stereochemistry, Chemical Modification: Methylation of phenylalanine at 3rd position",True
+HwAWfK,3000.0,"C-Terminal Amidation, Stereochemistry, Chemical Modification: Trp methylated at position 2",True
 YEPGKSSILQHERPVTKPQA,570.0,C-Terminal Amidation,True
+YEPGKSS,450.0,C-Terminal Amidation,True
+YEPGKSS,1074.0,"C-Terminal Amidation, Chemical Modification: [2-dehydro-Pro1.5]C is attached and tritiated",True
+fCFwKTCT,4320.0,"Cyclic, Stereochemistry",True
+fCFwKTCT,6840.0,"N-Terminal, Cyclic, Stereochemistry",True
 NSDSECPLSHDGYCLHDGVCMYIEALDKYACNCVVGYIGERCQYRDLKWWELR,744.0,Chemical Modification: I125 labeling,True
 YDPAPPPPPP,5760.0,N-Terminal,True
+YRQSMNQGSRSTGCRFGTCTMQKLAHQIYQFTDKDKDGMAPRNKISPQGY,63.0,C-Terminal Amidation,True
+YGGFLRRIRPKLKWDN,4020.0,"Chemical Modification: The reduced bond psi [CH,-NH] was introduced at position 1-2",True
+YGGFLRRIRPKLKWDN,2580.0,"Chemical Modification: The reduced bond psi [CH,-NH] was introduced at position 3-4",True
+YGGFLRRIRPKLKWDN,6000.0,"Chemical Modification: The reduced bond psi [CH,-NH] was introduced at position 4-5",True
+YGGFLRRIRPKLKWDN,30000.0,"Chemical Modification: The reduced bond psi [CH,-NH] was introduced at position 5-6",True
+YGGFLRRIRPKLKWDN,4800.0,"Chemical Modification: The reduced bond psi [CH,-NH] was introduced at position 6-7",True
+YGGFLRRIRPKLKWDN,11520.0,"Chemical Modification: The reduced bond psi [CH,-NH] was introduced at position 7-8",True
+YGGFLRRIRPKLKWDN,11460.0,"Chemical Modification: The reduced bond psi [CH,-NH] was introduced at position 8-9",True
+YGGFLRRIRPKLKWDN,5580.0,"Chemical Modification: The reduced bond psi [CH,-NH] was introduced at position 9-10",True
+HwAWfK,7190.4,"Stereochemistry, Chemical Modification: Methylated at position 2 of D-trp",True
 HAEGTFTSDVSSYLEGQAAKEFIAWLVRGRG,50400.0,Chemical Modification: γ-Glu-palmitoyl residue at position 21,True
 HAEGTFTSDVSSYLEGQAAKEFIAWLVKGRG,46800.0,Chemical Modification: γ-Glu-palmitoyl residue at position 21,True
 pGlu-LYENKPRRPYIL,90.0,Chemical Modification: Post translationaly modified Glu residue at first position,True
 VGDGGLFEKKL,21600.0,"C-Terminal Amidation, N-Terminal",True
+YTSLIHSLIEESQNQQEKNEQELLELDKWASLWNWF,10080.0,"N-Terminal, Chemical Modification: 19 residue is N15 labelled, also have 13C carbon",True
+CYTSLIHSLIEESQNQQEKNEQELLELDKWASLWNWF,37440.0,"N-Terminal, Chemical Modification: Mal-PEG12-CP was conjugated to Cys-enfuvirtide",True
 GKAFRR,2400.0,"N-Terminal, Chemical Modification: Ligated with potent cytotoxin thapsigargin, L12ADT",True
 AKPEAPGEDASPEELSRYYASLRHYLNLVTRQRY,900.0,C-Terminal Amidation,True
 RXRRXRRXRRXRXB,1440.0,"Chemical Modification: X = 6-aminohexanoic acid, B = beta-alanine, I = inosine",True
@@ -573,16 +683,23 @@ NQEEVSPYTLLKG,4320.0,"N-Terminal, Chemical Modification: Tyr residue at 8 positi
 EDYELMDLLAYLK,4260.0,Chemical Modification: 111In radiolabeling,True
 PSSSLHLHRRITHHRRLGCFRSSGSLLNNAMKGGVDDEITLSAYITMALLESSLPDTDP,10200.0,Chemical Modification: Glycosylation,True
 pGlu-HYSTlLAP-des-Gly,1920.0,"Stereochemistry, Chemical Modification: pGlu=pyroglutamic acid, des-Gly",True
+MFPAMPLSSLFVNGPRTLCGAELVDALQFVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRRLEMYCAPLKPAKSA,168.0,Chemical Modification: I125 labeling,True
 GYSMEHFRYGKPVGKKRR,156.0,C-Terminal Amidation,True
 βAla-YSMEHFRYGKPVGKKRR,439.2,"C-Terminal Amidation, Chemical Modification: βAla = Beta alanine",True
 Ibu-YSMEHFRYGKPVGKKRR,576.0,"C-Terminal Amidation, Chemical Modification: Ibu = α-aminoisobutyric acid",True
 βAla-YSMEHFRYGKPVGKKR-Orn,603.6,"C-Terminal Amidation, Chemical Modification: βAla = Beta alanine, Orn = Ornithine",True
 Ibu-YSMEHFRYGKPVGKKR-Orn,360.0,"C-Terminal Amidation, Chemical Modification: Ibu = α-aminoisobutyric acid",True
 βAla-YSMEHfRYGKPVGKKR-Orn,5287.2,"C-Terminal Amidation, Stereochemistry, Chemical Modification: βAla = Beta alanine, Orn = Ornithine",True
+pGlu-NSPR,68400.0,Chemical Modification: pGlu=pyroglutamic acid,True
+pGlu-NSPR,280800.0,"Chemical Modification: conjugated with cationic bovine serum albumin conjugated pegylated nanoparticles CBSA-NPs, pGlu=pyroglutamic acid",True
+YRGDS,1800.0,"Chemical Modification: I125 radiolabeling, covalently attached to an isocyanate-containing poly urethane prepolymer",True
+CYFQNCPRG,63.6,"Cyclic, Chemical Modification: I125 labeling",True
 GViTRIR,60.0,"N-Terminal, Stereochemistry",True
 Sar-GViTXIRP,720.0,"N-Terminal, Stereochemistry, Chemical Modification: Sar- Sarcosine",True
 Sar-GViT-(Dallo-Ile)-IRP,720.0,"N-Terminal, Stereochemistry, Chemical Modification: 4th AA  is D isoform of allo- Ile, Sar- Sarcosine",True
 GViT-(Nva)-IRP,1080.0,"N-Terminal, Stereochemistry, Chemical Modification: Sar- Sarcosine,  Nva-Norvaline",True
+Sar-GViT-(Nva)-IRP,3240.0,"N-Terminal, Stereochemistry, Chemical Modification: Sar- Sarcosine , Nva-Norvaline",True
+Sar-GViT-(Nva)-IRP,720.0,"N-Terminal, Stereochemistry, Chemical Modification: Sar- Sarcosine ,Nva-norvaline",True
 Sar-GViT-(NMeNva)-IRP,3600.0,"N-Terminal, Stereochemistry, Chemical Modification: Sar- Sarcosine , NMeNva- N-methyl-norvaline",True
 Sar-GViT-NMeNva-IRP,7560.0,"N-Terminal, Stereochemistry, Chemical Modification: Sar- Sarcosine , NMeNva- N-methyl-norvaline",True
 HHLGGAKQAGDV,12000.0,Chemical Modification: conjugated with PEG,True
@@ -590,11 +707,14 @@ HHLGGAKQAGDV,12000.0,Chemical Modification: conjugated with PEG,True
 ARPYSFGL,990.0,C-Terminal Amidation,True
 PPPPPARPYSFGL,4260.0,C-Terminal Amidation,True
 PPPPPARPYSF-(Acpc),6960.0,"C-Terminal Amidation, Chemical Modification: Acpc=cyclopropylalanine",True
+Pyr-HP,180.0,"C-Terminal Amidation, Chemical Modification: Pyr=pyroglutamic acid",True
+Pyr-HP,1200.0,Chemical Modification: Pyr=pyroglutamic acid,True
 QHP,1200.0,N-Terminal,True
 FPESKATNATLDPRPGGGGNGDFEEIPEEYLQ,489.0,Chemical Modification: I125 labeling,True
 FGG-(pF)F-TG-Aib-RKSARKRKNQ,678.0,"C-Terminal Amidation, Chemical Modification: pFF = p-flouro Phenylalanine; Aib= 2-Aminoisobutyric acid",True
 Pyr-Glu-LYENKPRRPYIL,7200.0,Chemical Modification: Pyr-Glu= pyro-glutamate,True
 (RRPYIL)-PEG-biotin,86400.0,Chemical Modification: 4 Hexapeptide bound to PEG-Biotin to form tetra branched,True
+HSSKLQ,79200.0,N-Terminal,True
 SSKYQ,11520.0,N-Terminal,True
 GSSFLSPEHQRVQQRKESKKPPAKLQPR,1260.0,Chemical Modification: n-octanoyl group at ser 3,True
 CSNLSTCVLGKLSQELHKLQTYPRTNTGSGTP,790.8,Cyclic,True
@@ -607,6 +727,7 @@ VDKPPYLPRPRPPRRIYN-Nir,4680.0,"C-Terminal Amidation, Chemical Modification: Nir=
 VDKPPYLPRPRPPRRIYN-Nmr,4740.0,"C-Terminal Amidation, Chemical Modification: Nmr =N-methylarginine",True
 VDKPPYLPRPRPPRRIYN-Har,5640.0,"C-Terminal Amidation, Chemical Modification: Har=Homoarginine",True
 VDKPPYLPRPRPPRRIYNr,9600.0,"C-Terminal Amidation, Stereochemistry, Chemical Modification: D-Arg at 19th position",True
+VDKPPYLPRPRPPR-Orn-IYNR,5400.0,"C-Terminal Amidation, Chemical Modification: orn =Ornithine",True
 VDKPPYLPRPRPPR-beta-Hr-IYNR,9000.0,"C-Terminal Amidation, Chemical Modification: Beta-Hr =β-homoarginine",True
 VDKPPYLPRPRPPRrIYNR,3480.0,"C-Terminal Amidation, Stereochemistry, Chemical Modification: D-Arg at 15th position",True
 VDKPPYLPRPRPPR-Har-IYN-Har,3300.0,"C-Terminal Amidation, Chemical Modification: Har=Homoarginine",True
@@ -617,7 +738,9 @@ VDKPPYLPRPRPPR-Orn-IYN-Har,4500.0,"C-Terminal Amidation, Chemical Modification: 
 VDKPPYLPRPRPPR-Orn-IYN-Agp,6180.0,"C-Terminal Amidation, Chemical Modification: Agp = α-amino-3-guanidinopropionic acid, Orn=Ornithine",True
 VDKPPYLPRPRPPR-Orn-IYN-Orn,10560.0,"C-Terminal Amidation, Chemical Modification: Orn=Ornithine",True
 VDKPPYLPRPRPPRrIYNr,28800.0,"C-Terminal Amidation, Stereochemistry, Chemical Modification: D-Arg at 19th position",True
+VDKPPYLPRPRPPR-Orn-IYNR,6120.0,Chemical Modification: Orn=Ornithine,True
 RPKPQQFFGLM,600.0,C-Terminal Amidation,True
+CYFQNCPRG,604800.0,"C-Terminal Amidation, Cyclic",True
 SLRRSSCFGGRMDRIGAQSGLGCNSFRY(GGS)3GG-Fc region,14040.0,Cyclic,True
 SLRRSSCFGGRMDRIGAQSGLGCNSFRYGS(GGS)4GG-Fc region,16200.0,Cyclic,True
 {[SLRRSSCFGGRMDRIGAQSGLGCNSFRY(GGS)3GG]2}-Fc region,10080.0,Cyclic,True
@@ -625,6 +748,10 @@ SLRRSSCFGGRMDRIGAQSGLGCNSFRYGS(GGS)4GG-Fc region,16200.0,Cyclic,True
 Sar-RVYIHPa,120.0,"N-Terminal, Stereochemistry, Chemical Modification: D-Ala at 8th position",True
 EGTFTSDVSSYLEGQAAKEFIAWLVKGR,14400.0,C-Terminal Amidation,True
 HAEGTFTSDVSSYLEGQAAK(γ-Glu-palmitoyl)EFIAWLVRGRG,61560.0,Chemical Modification: γ-Glu-palmitoyl at 21 st position,True
+HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,54000.0,"C-Terminal Amidation, Chemical Modification: X-1 = Cys- conjugated-7-hydroxyCoumarin maleimide",True
+HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,187920.0,"C-Terminal Amidation, Chemical Modification: X-2 = Cys- conjugated-7-hydroxyCoumarin maleimide",True
+HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,77760.0,"C-Terminal Amidation, Chemical Modification: X-2 = Lys- conjugated-7-hydroxyCoumarin maleimide",True
+HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,42480.0,"C-Terminal Amidation, Chemical Modification: X-1 = Lys- conjugated-7-hydroxyCoumarin maleimide",True
 HAEGTFTSDVSSYLEGQAAKEFIAWLVKGRX1,19440.0,"C-Terminal Amidation, Chemical Modification: X-1 = Cys- conjugated-7-hydroxyCoumarin maleimide",True
 HAEGTFTSDVSSYLEGQAAKEFIAWLVKGRX2,66240.0,"C-Terminal Amidation, Chemical Modification: X-2 = Cys- conjugated-7-hydroxyCoumarin maleimide",True
 HAEGTFTSDVX-2SYLEGQAAKEFIAWLVKGR,82440.0,"C-Terminal Amidation, Chemical Modification: X-2 = Cys- conjugated-7-hydroxyCoumarin maleimide",True
@@ -634,17 +761,34 @@ HAEGTFTSDVSCYLEGQAACEFIAWLVKGRGKKKKKK,252000.0,Cyclic,True
 HAEGTFTSDVSCYLEGQAACEFIAWLVKGRGSSSSSS,27000.0,Cyclic,True
 HAEGTFTSDVSCYLEGQAACEFIAWLVKGRGVVVVVV,18000.0,Cyclic,True
 PlLQAtLGGGS,43200.0,"C-Terminal Amidation, Stereochemistry",True
+YTSLIHSLIEESQNQQEKNEQELLELDKWASLWNWF,5400.0,"C-Terminal Amidation, N-Terminal",True
+CYTSLIHSLIEESQNQQEKNEQELLELDKWASLWNWF,83160.0,"C-Terminal Amidation, N-Terminal",True
+TTWEAWDRAIAEYAARIEALLRALQEQQEKNEAALREL,15120.0,"C-Terminal Amidation, N-Terminal",True
+TTWEAWDRAIAEYAARIEALLRALQEQQEKNEAALREL,122400.0,"C-Terminal Amidation, N-Terminal, Chemical Modification: Conjugated with PEG40KDa throµgh Lys-30",True
+TTWEAWDRAIAEYAARIEALLRALQEQQEKNEAALREL,540000.0,"C-Terminal Amidation, N-Terminal, Chemical Modification: Conjugated with ClPhSO2 conjugate throµgh Lys-30",True
+TTWEAWDRAIAEYAARIEALLRALQEQQEKNEAALREL,158400.0,"C-Terminal Amidation, N-Terminal, Chemical Modification: Conjugated with MorphSO2 conjugate throµgh Lys-30",True
 HA/EGTFTSDVSSYLEGQAAKEFIAWLVKGR,46800.0,C-Terminal Amidation,True
 HAEGTFTSDVSSYLEGQAAKEEFIIAWLVKGRG,32400.0,Chemical Modification: Acylation of peptide at K-26 with C-18palmitic acid fatty di-acid chain,True
+HDEFERH-alpha-aminoisobutyric acid-EGTFTSDVSSYLEGQAAKEFIAWLVRGR,594000.0,"C-Terminal Amidation, Chemical Modification: Alpha-aminoisobutyric acid at 8th position, Acylation of peptide at K-26 with C-18 fatty di-acid chain",True
+HDEFERH-alpha-aminoisobutyric acid-EGTFTSDVSSYLEGQAAKEFIAWLVRGR,165600.0,"C-Terminal Amidation, Chemical Modification: Acylation of peptide at K-26 with C-18 fatty di-acid chain",True
+pGlu-HWSYGLRPG,360.0,"C-Terminal Amidation, Chemical Modification: Pyro-Glutamate at 1st position",True
 p-Gln-HWSYwLRPG,10440.0,"C-Terminal Amidation, N-Terminal, Chemical Modification: Lactose at N-ter, pyro-Glutamine at n-ter, D-Trp at 6 pos",True
 fPRPGGGGQGDFEEIPEEYL,1350.0,Stereochemistry,True
+fPRPGGGGQGDFEPIPEDAYDE,780.0,"C-Terminal Amidation, Stereochemistry",True
+fPRPGGGGQGDFEPIPEDAYDE,12732.0,"C-Terminal Amidation, Stereochemistry, Chemical Modification: Stearic acid at Lys",True
 CKQSCSFGPFTFVCDGNTK,240.0,"Chemical Modification: Succinimidyl 6-hydrazinonicotinate acetone hydrazone HYNIC derivatized, HYNIC conjugated at either at Cys -1 or Amine group Of Lys-2",True
+SPKMVQGSGCFGRKMDRISSSSGLGCKVLRRH,480.0,Cyclic,True
 EVKYDPCFGHKIDRINHVSNLGCPSLRDPRPNAPSTSA,9540.0,Cyclic,True
 GLSKGCFGLKLDRIGSMSGLGCPSLRDPRPNAPSTSA,1197.0,Cyclic,True
+SCSlPQT,1800.0,Stereochemistry,True
 GPE,2940.0,Chemical Modification: Methylation of alpha-C of Pro,True
 CRKEVY,8064.0,Cyclic,True
 SKLQ,23400.0,"C-Terminal Amidation, N-Terminal",True
+HSSKLQ,43200.0,"C-Terminal Amidation, N-Terminal",True
 Hyp-AS-Chg-Q,3300.0,"C-Terminal Amidation, N-Terminal",True
+YRQSMNNFQGLRSFGCRFGTCTVQKLAHQIYQFTDKDKDNVAPRSKISPQGY,37.2,"C-Terminal Amidation, Cyclic",True
+YRQSMNNFQGLRSFGCRFGTCTVQKLAHQIYQFTDKDKDNVAPRSKISPQGY,292.2,"C-Terminal Amidation, N-Terminal, Cyclic",True
+SCSlPQT,7200.0,"N-Terminal, Stereochemistry",True
 CSSPIQGSWTWENGK(propargylglycine)WTWKGIIRLEQ,1767.6,Chemical Modification: Modified Gly  at 16th postion i.e. propargylglycine and peptide conjugated with drug DTX at this position,True
 k(Nic)-P-Pal-Pf(Cl2)-NwFwL-Nle,8208000.0,"C-Terminal Amidation, N-Terminal, Stereochemistry, Chemical Modification: Pal=3-2-Pyridyl-L-alanine , kNic=NicotinoylLys , Nle=NorLeucine, Dichloro at 5th Phenyl",True
 Pyr-QRLGNQWAVGHLM,25020.0,"C-Terminal Amidation, Chemical Modification: Pyr=Pyro-glutamine",True
@@ -654,14 +798,20 @@ fQWAVGHL,33540.0,Stereochemistry,True
 fQWAVGHL-Cpa,9240.0,"C-Terminal Amidation, Stereochemistry, Chemical Modification: Cpa=Chlorophenylalanine",True
 fQWAVaHL,83280.0,"N-Terminal, Stereochemistry",True
 SQDSAERIQERLRNSKMAHSSSCFGQKIDRIGAVSRLGCDGLRQF,130.0,Cyclic,True
+SLRRSSCFGGRMDRIGAQSGLGCNSFRY,20.2,"Cyclic, Chemical Modification: Iodinated at Tyr",True
 GWTLNSAGYLLGPHAIDNHRvSFHDKYGLA,6000.0,C-Terminal Amidation,True
+HwAWfK,1200.0,"C-Terminal Amidation, Stereochemistry",True
 aSTTTNYT,2700.0,"C-Terminal Amidation, Stereochemistry",True
+YADAIFTNSYRKVLGQLSARKLLQDIMSR,3600.0,"C-Terminal Amidation, N-Terminal",True
 YaDAIFTNSYRKVLAQLSARKLLQDIMSR,3600.0,"C-Terminal Amidation, N-Terminal, Stereochemistry",True
+YADAIFT-(cyclo-D)-SYR-(cyclo-K)-VLAQLSARKLLQDIMSR,14400.0,C-Terminal Amidation,True
+YADAIFT-(cyclo-D)-SYR-(cyclo-K)-VLAQLSARKLLQDIMSR,14400.0,"C-Terminal Amidation, Stereochemistry, Chemical Modification: Cyclo-Asp at 8th position, cyclo-Lys at 12 position",True
 YADAIFTNSYRVLAQLSAR-(cyclo-K)LLQ-(cyclo-D)-IMSR,14400.0,C-Terminal Amidation,True
 YaDAIFTNSYRKVLAQLSAR-(cyclo-K)LLQ-(cyclo-D)-IMSR,14400.0,"C-Terminal Amidation, Stereochemistry",True
 YADAIFT-(cyclo-D)-SYR-(cyclo-K)-VLAQLSAR-(cyclo-K)LLQ-(cyclo-D)IMSR,14400.0,C-Terminal Amidation,True
 AQKVNSGEPRAHLGALLARYIQQARKAPSGRMSVIKNLQNLDPSHRISDRDYMGWMDF,2700.0,C-Terminal Amidation,True
 YADAIFTNSYRKVLGQLSARKLLQDILSRQQG,727200.0,C-Terminal Amidation,True
+HSDAVFTDNYTRLRKQMAVKKYLNSILN,48.0,"C-Terminal Amidation, N-Terminal",True
 HADGVFTSDFSKLLGQLSAKKYLESLM,390.0,C-Terminal Amidation,True
 YaDAIFTNSYRKVLGQLSARKLLQDIMSR,396.0,"C-Terminal Amidation, Stereochemistry",True
 YAdAIFTNSYRKVLGQLSARKLLQDIMSR,354.0,"C-Terminal Amidation, Stereochemistry",True
@@ -669,44 +819,78 @@ YADAIFTnSYRKVLGQLSARKLLQDIMSR,414.0,"C-Terminal Amidation, Stereochemistry",True
 YADAIFTNSyRKVLGQLSARKLLQDIMSR,282.0,"C-Terminal Amidation, Stereochemistry",True
 yaDAIFTNSYRKVLGQLSARKLLQDIMSR,444.0,"C-Terminal Amidation, N-Terminal, Stereochemistry",True
 pyr-EHWSYwLRPG,600.0,"C-Terminal Amidation, Stereochemistry, Chemical Modification: Pyr=Pyro-glutamic acid",True
+SLRRSSCFGGRMDRIGAQSGLGCNSFRY,16.8,"Cyclic, Chemical Modification: Radioiodinated peptide at Tyr",True
+RRSSCFGGRMDRIGAQSGLGCNSFRY,17.1,"Cyclic, Chemical Modification: Radioiodinated peptide at Tyr",True
 SSCFGGRMDRIGAQSGLGCNSFRY,22.0,"Cyclic, Chemical Modification: Radioiodinated peptide at Tyr",True
+RRSSCFGGRMDRIGAQSGLGCNSFRY,270.0,Cyclic,True
 NPVYSAVSNTDLMDFKNLLDHLEEKMPVEDEVMPPQALSEQTDEAGAALSSLSEVPPWTGEVNPSQRDGGALGRGPWDPSDRSALLKSKLRALLAGPR,3288.0,Chemical Modification: Radioiodinated peptide at Tyr-4,True
 pEHWSY-(D-Nal(2))LRPG,8280.0,"C-Terminal Amidation, Chemical Modification: pE=Pyro-glutamate,  D-alanin= 3-2Naphthyl-D-alanine",True
 ACDTATCVTHRLAGLLSRSGGVVKNNFVPTNVGSKAF,216.0,"C-Terminal Amidation, Cyclic",True
 yRGF(4NO2)P,7200.0,"C-Terminal Amidation, Stereochemistry, Chemical Modification: 4 nitro groups linked to Phenylalanine phe at 4th position",True
+GPETLCGAELVDALQFVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRRLEMYCAPLKPAKSA,23400.0,Chemical Modification: Labelled with 125I,True
+GPETLCGAELVDALQFVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRRLEMYCAPLKPAKSA,2880.0,"Chemical Modification: Labelled with 125I, Disulphide bond is reduced",True
+GPETLCGAELVDALQFVCGDRGFYFNKPTGYGSSSRRAPQTGIVDECCFRSCDLRRLEMYCAPLKPAKSA,3060.0,Chemical Modification: S-CM=S-carboxymethylated,True
 YPSKPDNPGEDAPAEDMARYYSALRHYINLITRQRY,1200.0,C-Terminal Amidation,True
 WAaGDASGE,491.4,Stereochemistry,True
+WAGaDASGE,774.0,Stereochemistry,True
+WAGaDASGE,612.0,"C-Terminal Amidation, Stereochemistry",True
 YADAIFTNSYRKVLGQLSARKLLQDIMSRQQGESNQERGA,3438.0,C-Terminal Amidation,True
 PGlu-HWSYGLRPG,630.0,"C-Terminal Amidation, Chemical Modification: pGlu= Pyro-glutamate",True
 PGlu-HWSYfLRPG,871.8,"C-Terminal Amidation, Stereochemistry",True
 PGlu-HwSYfLRPG,1548.0,"C-Terminal Amidation, Stereochemistry",True
 DSGCFGRRLDRIGSLSGLGCNVLRRY,186.0,"Cyclic, Chemical Modification: Tyr is Iodinated 125I",True
 D-Nal-FASKkLKPA,561600.0,"C-Terminal Amidation, N-Terminal, Stereochemistry",True
+p-Glu-HWSYsLRP,672.0,"Stereochemistry, Chemical Modification: D-SertBu at 6th position, Pglu=pyr- Glutamate",True
+p-Glu-HWSYsLRP,3024.0,"Stereochemistry, Chemical Modification: D-SertBu at 6th position",True
 SQDSAFRIQERLRNSKMAHSSSCFGQKIDRIGAVSRLGCDGLRLF,45.0,Cyclic,True
+YRGDS,1800.0,Chemical Modification: Peptide covalently attached to Isocyanate containing polyurethane prepolymer,True
+HSDAVFTDNYTRLRKQMAVKKYLNSILN,26.4,"C-Terminal Amidation, Chemical Modification: Iodinated at Tyr",True
+YRQSMNQGSRSTGCRFGTCTMQKLAHQIYQFTDKDKDGMAPRNKISPQGY,63.0,"C-Terminal Amidation, Cyclic",True
 RRSSCFGGRIDIIGAQSGLGCNSFRY,246.0,Cyclic,True
 H-Aib-EGTFTSDVSSYLEGQAAKEEFIIAWLVKGRG,594000.0,Chemical Modification: Aib =2-Aminoisobutyric acid; Acylation of peptide at K-26 with fatty acid side chain i.e.  N6-[N-17-carboxy-1-oxoheptadecyl-L-c-glutamyl[2- 2-aminoethoxyethoxy]acetyl[2-2 aminoethoxyethoxy]acetyl,True
+SLRRSSCFGGRMDRIGAQSGLGCNSFRY,339.0,"C-Terminal Amidation, Cyclic",True
 HAEGTFTSDVSSYLEGQAAKEFIAWLVK,7200.0,"C-Terminal Amidation, N-Terminal",True
 SCNTATCVTHRLAGLLSRSGGVVKDNFVPTNVGSEAF,540.0,"C-Terminal Amidation, Cyclic",True
 (Cbc)KFAP,1464.0,"N-Terminal, Chemical Modification: Proline ring is tritiated",True
 5(S)-benzamido-4-oxo-6-phenylhexanoyl-P,696.0,"N-Terminal, Chemical Modification: Proline ring is tritiated",True
+DRDYMGWMDF,28800.0,"C-Terminal Amidation, Chemical Modification: SO3H Group at Tyr-4, Coupled to PEG10KDa, PEG=Polyethylene glycol, CCK-10=Cholecystokinin",True
 NHHGRRRRRRRRRRR,642.0,"N-Terminal, Chemical Modification: Cu-labelled",True
 pyr-Glu-LTFTPNW,792.0,"C-Terminal Amidation, Chemical Modification: pyr-Glu= Pyro-Glutamic acid",True
 VPLPAGGGTVLTKMYPRGNHWAVGHLM,180.0,C-Terminal Amidation,True
 (IEGPTLRQ-Npa-LAAR-Sar)2K,77760.0,"C-Terminal Amidation, N-Terminal, Chemical Modification: Npa-napthylalanine,Sar-sarcosine",True
 PHWSYlLRP,504.0,"N-Terminal, Stereochemistry",True
+pGlu-HWSYGLRPG,900.0,"N-Terminal, Chemical Modification: pGlu=pyroglutamic acid",True
 SDAAVDTSSEITTKDLKEKKEVVEEAENRKDVY,8400.0,N-Terminal,True
 SDAAVDTSSEITTKDLKEKKEVVEEAEN,7620.0,N-Terminal,True
+H-Aib-EGTFTSDVSSYLEGQAAKEFIAWLVK-Aib-R,35280.0,"C-Terminal Amidation, Chemical Modification: Aib=α-aminoisobutyric acid replacing Ala8 and Gly35 of hGLP-1[7-36]",True
+HAEGTFTSDVSSYLEGQAAKEFIAWLVKGR,6480.0,"C-Terminal Amidation, Cyclic",True
 QWAVGHLM,1872.0,"C-Terminal Amidation, N-Terminal",True
 MCMPCFTTDHQMARKCDDCCGGKGRGKCYGPQCLCR,50400.0,"Chemical Modification: N-hydroxysuccinimide esterNHS-estermodified Cy5.5 at Lysine 15,23 and 27",True
 MCMPCFTTDHQMARKCDDCCGGKGRGKCYGPQCLCRGAGAAGG,39600.0,"Cyclic, Chemical Modification: N-hydroxysuccinimide esterNHS-estermodified Cy5.5 at Lysine 15,23 and 28",True
 YaGFlC,546.0,Stereochemistry,True
 YaGFl,276.0,Stereochemistry,True
 CEWDREINNYTSLIHSLIEESQNQQEKNEQELLELDKWASLW,2400.0,N-Terminal,True
+EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,2646.0,Chemical Modification: Pegylation-PEG750 of cysteine at 4th position,True
+EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,4044.0,Chemical Modification: Pegylation-PEG2000 of cysteine at 4th position,True
+EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,3012.0,Chemical Modification: Pegylation-PEG750 of cysteine at 11th position,True
+EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,5460.0,Chemical Modification: Pegylation-PEG2000 of cysteine at 11th position,True
+EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,3222.0,Chemical Modification: Pegylation-PEG750 of cysteine at 15th position,True
+EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,4944.0,Chemical Modification: Pegylation-PEG2000 of cysteine at 15th position,True
+EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,3018.0,Chemical Modification: Pegylation-PEG750 of cysteine at 18th position,True
+EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,4878.0,Chemical Modification: Pegylation-PEG2000 of cysteine at 18th position,True
+EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,3108.0,Chemical Modification: Pegylation-PEG750 of cysteine at 22nd position,True
+EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,4842.0,Chemical Modification: Pegylation-PEG2000 of cysteine at22nd position,True
+EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,3486.0,Chemical Modification: Pegylation-PEG750 of cysteine at 29th position,True
+EWDREINNYTSLIHSLIEESQNQQEKNECELLELDKWASLW,5046.0,Chemical Modification: Pegylation-PEG2000 of cysteine at 29th position,True
+EWDREINNYTSLIHSLIEECQNQQEKNEQELLELDKWASLW,2520.0,Chemical Modification: Pegylation-PEG750 of cysteine at 20th position,True
+EWDREINNYTSLIHSLIEECQNQQEKNEQELLELDKWASLW,4578.0,Chemical Modification: Pegylation-PEG2000 of cysteine at 20th position,True
 YGRKKRRQRRR,402.0,N-Terminal,True
 VDCFLSRPTEKT,18080.4,N-Terminal,True
 FVNQHLCGSHLVEALYLVCGERGFFYTPKARREAQNPQAGAVELGGGLGGLNALALEGPPQKRGIVEQCCTSICSLYQLENYCN,492.0,Cyclic,True
 SSSHPIFHRGEFSVCDSVSVWVGDKTTATDIKGKEVMVLGEVNINNSVFKQYFFETKCRDPNPVDSGCRGIDSKHWNSYCTTTHTFVKALTMDGKQAAWRFIRIDTACVCVLSRKAVRRA,2178.0,Cyclic,True
 YPSKPDNPGEDAPAEDLARYYSALRHYINLITRQRY,1260.0,C-Terminal Amidation,True
 FNAPFDVGIKLSGAQYQQHGRAL,1320.0,C-Terminal Amidation,True
+FNAPFDVGIKLSGVQYQQHSQAL,3906.0,C-Terminal Amidation,True
+FNAPFDVGIKLSGVQYQQHSQAL,906.0,"C-Terminal Amidation, Chemical Modification: Iodination at tyr16",True
 ASISGRDTHRLTRTLNCSSIVKEIIGKLPEPELKTDDEGPSLRNKSFRRVNLSKFVESQGEVDPEDRYVIKSNLQKLNCCLPTSANDSALPGVFIRDLDDFRKKLRFYMVHLNDLETVLTSRPPQPASGSVSPNRGTVEC,126.0,"Cyclic, Chemical Modification: Glycosylation at 84thand 112th position",True
 HPAGKRPCKMQAFRIWDTNQKTFYLRNNQLIAGYLQGPNTKLEEKIDMVPIDFRNVFLGIHGGKLCLSCVKSGDDTKLQLEEVNITDLNKNKEEDKRFTFIRSETGPTTSFESLACPGWFLCTTLEADHPVSLTNTPKEPCTVTKFYFQEDQ,630.0,"Cyclic, Chemical Modification: Glycosylation at 84th position",True

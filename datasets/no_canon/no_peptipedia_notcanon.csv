@@ -1,5 +1,4 @@
 sequence,half_life_seconds,in_peptipedia,modifications,is_mod
-aAGIGILTv,,False,Stereochemistry,True
 LP-(NMe)-FFD,86400.0,False,"C-Terminal Amidation, N-Terminal, Chemical Modification: NMe",True
 LP-(NMe)-FF-(NMe)-D,86400.0,False,"C-Terminal Amidation, N-Terminal, Chemical Modification: NMe",True
 LP-(NMe)-F-(NMe)-FD,86400.0,False,"C-Terminal Amidation, N-Terminal, Chemical Modification: NMe",True
@@ -149,7 +148,6 @@ VDKPPYLPRPRPPRRIYN-Nir,4680.0,False,"C-Terminal Amidation, Chemical Modification
 VDKPPYLPRPRPPRRIYN-Nmr,4740.0,False,"C-Terminal Amidation, Chemical Modification: Nmr =N-methylarginine",True
 VDKPPYLPRPRPPRRIYN-Har,5640.0,False,"C-Terminal Amidation, Chemical Modification: Har=Homoarginine",True
 VDKPPYLPRPRPPRRIYNr,9600.0,False,"C-Terminal Amidation, Stereochemistry, Chemical Modification: D-Arg at 19th position",True
-VDKPPYLPRPRPPRRIYNR-NHpr,7200.0,False,,False
 VDKPPYLPRPRPPR-Orn-IYNR,5400.0,False,"C-Terminal Amidation, Chemical Modification: orn =Ornithine",True
 VDKPPYLPRPRPPR-beta-Hr-IYNR,9000.0,False,"C-Terminal Amidation, Chemical Modification: Beta-Hr =β-homoarginine",True
 VDKPPYLPRPRPPRrIYNR,3480.0,False,"C-Terminal Amidation, Stereochemistry, Chemical Modification: D-Arg at 15th position",True
@@ -173,10 +171,6 @@ HAEGTFTSDVSSYLEGQAAKEFIAWLVKGRX2,66240.0,False,"C-Terminal Amidation, Chemical M
 HAEGTFTSDVX-2SYLEGQAAKEFIAWLVKGR,82440.0,False,"C-Terminal Amidation, Chemical Modification: X-2 = Cys- conjugated-7-hydroxyCoumarin maleimide",True
 PlLQAtLGGGS,43200.0,False,"C-Terminal Amidation, Stereochemistry",True
 HA/EGTFTSDVSSYLEGQAAKEFIAWLVKGR,46800.0,False,C-Terminal Amidation,True
-HA/EGTFTSDVSSYLEGQAAKEFIAWLVKGRG,39600.0,False,,False
-YA/EGTFISDYSIAMDKIHQQDFVNWLLAQKGKKNDWKHNITQ,45000.0,False,,False
-HS/QGTFTSDYSKYLDSRRAQDFVQWLMNTKRNRNNIA,86400.0,False,,False
-HS/QGTFTSDYSKYLDSRRAQDFVQWLMNT,45000.0,False,,False
 HDEFERH-alpha-aminoisobutyric acid-EGTFTSDVSSYLEGQAAKEFIAWLVRGR,594000.0,False,"C-Terminal Amidation, Chemical Modification: Alpha-aminoisobutyric acid at 8th position, Acylation of peptide at K-26 with C-18 fatty di-acid chain",True
 HDEFERH-alpha-aminoisobutyric acid-EGTFTSDVSSYLEGQAAKEFIAWLVRGR,165600.0,False,"C-Terminal Amidation, Chemical Modification: Acylation of peptide at K-26 with C-18 fatty di-acid chain",True
 pGlu-HWSYGLRPG,360.0,False,"C-Terminal Amidation, Chemical Modification: Pyro-Glutamate at 1st position",True
@@ -231,16 +225,9 @@ pGlu-HWSYGLRPG,900.0,False,"N-Terminal, Chemical Modification: pGlu=pyroglutamic
 H-Aib-EGTFTSDVSSYLEGQAAKEFIAWLVK-Aib-R,35280.0,False,"C-Terminal Amidation, Chemical Modification: Aib=α-aminoisobutyric acid replacing Ala8 and Gly35 of hGLP-1[7-36]",True
 YaGFlC,546.0,False,Stereochemistry,True
 YaGFl,276.0,False,Stereochemistry,True
-H-Abu-EGTFTSDVSSYLEGQAAKEFIAWLVKGR,43200.0,False,,False
-Y-Abu-EGTFISDYSIAMDKIHQQDFVNWLLAQKGKKNDWKHNITQ,25560.0,False,,False
-kKVVFKVKFk,1320.0,False,,False
-TaLIDNNATEEILY,252.0,False,,False
-TaIIDNNKTEKEISY,150.0,False,,False
 H-Aib-EGTFTSDVSSYLEGQAAKEFIAWLVKGR,43560.0,False, Amidation,True
 HAEGTFTSDVSSYLEGQAAKEFIAWLVK-Aib-R,66240.0,False, Amidation,True
 aRRWRIVVIRVRRh,3600.0,False, Amidation,True
-YRWYGYTPQNVIGGGKLlLKlLkkLLKlLKKK,1158.0,False,,False
-FVPIFTYGELORVQQRKNSKKPPAKLQPR,328.2,False,,False
 K-Sar-htrGtf,66960.0,False, Amidation,True
 rPKPfQwFwLL,2754.0,False, Amidation,True
 fCFwKTCT,5400.0,False, Hydroxylation,True
@@ -253,9 +240,7 @@ VDKPPYLPRPRPPR-Orn-IYN-Orn,10560.0,False, Amidation,True
 VDKPPYLPRPRPPRrIYNr,28800.0,False, Amidation,True
 Sar-RVYIHPa,120.0,False,Sar=Sarcosine,True
 PlLQAtLGGGS,43200.0,False, Amidation,True
-fPRPGGGGQGDFEEIPEEYL,900.0,False,,False
 fPRPGGGGQGDFEPIPEDAYDE,780.0,False, Amidation,True
-SCSlPQT,2040.0,False,,False
 HwAWfK,1200.0,False, Amidation,True
 aSTTTNYT,2700.0,False, Amidation,True
 YaDAIFTNSYRKVLGQLSARKLLQDIMSR,396.0,False, Amidation,True
@@ -263,9 +248,222 @@ YAdAIFTNSYRKVLGQLSARKLLQDIMSR,354.0,False, Amidation,True
 YADAIFTnSYRKVLGQLSARKLLQDIMSR,414.0,False, Amidation,True
 YADAIFTNSyRKVLGQLSARKLLQDIMSR,282.0,False, Amidation,True
 yaDAIFTNSYRKVLGQLSARKLLQDIMSR,444.0,False,"Acetylation, Amidation",True
-WAaGDASGE,491.4,False,,False
-WAGaDASGE,774.0,False,,False
 WAGaDASGE,612.0,False, Amidation,True
 H-Aib-EGTFTSDVSSYLEGQAAKEFIAWLVK-Aib-R,35280.0,False, Amidation,True
-YaGFlC,546.0,False,,False
-YaGFl,276.0,False,,False
+Ac-WEEWDREINNYTK(Alb)LIHELIEESQNQQEKNEQELL-NH2,92880.0,False,Albumin,True
+Ac-WEEWDREINNYTK(Alb)LIHELIEESQNQQEKNEQELL-NH2,368640.0,False,Albumin,True
+(PEG)2-KWKLFKKIFKRIVQRIKDFLR-NH2,3600.0,False,PEGylation,True
+DabTDabDabDabLLDabDabT,5760.0,False,Cyclization,True
+DabTDabDabDabLLDabDabT,2070.0,False,Cyclization,True
+Ac-KLKLKLKLKLKLKLKLKKLKKLKKLKKLKKLKKLKKL-NH2,64800.0,False,Branched,True
+Ac-IWIAQELRXIGDXFNAYYARR-NH2,56880.0,False,Stapled,True
+Ac-FMHNLWKWLSSMERVEWLRKKLQDVHNF-NH2,5400.0,False,α to β replacement,True
+Ac-YGGF-Hic-NH2,198.0,False,Hydroxy isocaproic acid,True
+Ac-YGGFL-NH2,641.9999999999999,False,Methylation,True
+Ac-NSGLSFEES5YRNS5YTMVLHK-NH2,79200.0,False,Unnatural amino acid,True
+Ac-NSGLSFES5LYRS5AYTMVLHK-NH2,79200.0,False,Unnatural amino acid,True
+Ac-NSGLS5FEES5YRNAYTMVLHK-NH2,25200.0,False,Unnatural amino acid,True
+HYNIC-DDWAVGHDF-NHMe,600.0,False,Methylation,True
+HYNIC-DDWAVGHDY-NHMe,900.0,False,Methylation,True
+LL(me)LLPY,21600.0,False,Cyclization/Methylation,True
+Ac-[CMPRLRGC]c-NH2,4176.0,False,Cyclization,True
+Ac-[cMPRLRGC]c-NH2,10908.0,False,Cyclization,True
+Ac-[D-“Pen”M“Thz”RLRGC]c-NH2,6804.0,False,Cyclization/D-amino acid/Propionylation,True
+Pr-[cM“Thz”RLRG“Pen”]c-NH2,15371.999999999998,False,Cyclization/Propionylation,True
+Pr-[cM“Thz”RLR“Sar”“Pen”]c-NH2,15659.999999999998,False,Cyclization/Propionylation,True
+Pr-[cM“Pip”RLR“Sar”C]c-NH2,23976.0,False,Cyclization/Propionylation,True
+Pr-[cM“Pip”RLRG“Pen”]c-NH2,14508.0,False,Cyclization/Propionylation,True
+Pr-[cM“Pip”RLR“Sar”“Pen”]c-NH2,36000.0,False,Cyclization/Propionylation,True
+Ac-HPCDYPEWQWLCELG-PEG4-K-NH2,11880.0,False,PEGylation/Lipidation,True
+Ac-HPCDYPEWQWLCELG-PEG4-K-NH2,19440.0,False,PEGylation/Lipidation,True
+Ac-HPCDYPEWQWLCELG-PEG4-K-NH2,26640.0,False,PEGylation/Lipidation,True
+Ac-HPCDYPEWQWLCELG-PEG4-K-NH2,67680.0,False,PEGylation/Lipidation,True
+Ac-y-e9-x-PLGLAG-r9-x-k-(DOTA)-NH2,7068.0,False,Albumin,True
+VβEPβNCDIHVIleWβEWECFERβL-NH2,1440.0,False,β-peptide,True
+βVEβPNCDIHVIleβWEWβECFERβL-NH2,18000.0,False,β-peptide,True
+Moc-AmAmc’LRAIGDC’VNLAQALLN,1782.0,False,Methylation,True
+Moc-AmAmc’LRAIGDC’VNLAQALLN,1176.0000000000002,False,Methylation,True
+Moc-AmAmc’LRAIGDC’VNLAQALLN,1272.0,False,Methylation,True
+RRRRR5RRRRRRS8,186.0,False,Stapled,True
+S5RRRB5RRRRRRS8,3840.0,False,Stitched,True
+MDYKDDDDKGSGSTLDD(O2beY)EEMDGCSDT,21600.0,False,Cyclization,True
+MDYKDDDDKGSGSTLDW(O2beY)EEMDMCTDT,21600.0,False,Cyclization,True
+MDYKDDDDKGSGSTLSW(O2beY)EAMDMCTDT,21600.0,False,Cyclization,True
+CF-KPVSLSYRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNK-FA,954.0,False,Lipidation,True
+YPSK(X-Y)PDFPGEDAPAEDLARYYSALRHYINLITRPRY,111600.0,False,X-amide,True
+YPSK(X-Y)PDFPGEDAPAEDLARYYSALRHYINLITRPRY,12240.0,False,X-ester,True
+YPSK(X-Y)PDFPGEDAPAEDLARYYSALRHYINLITRPRY,2520.0,False,X-disulfide,True
+YPSK(X-Y)PDFPGEDAPAEDLARYYSALRHYINLITRPRY,205200.0,False,X-enzymatic,True
+LF(Me)PLA(Me)LF(Me)PLA(Me),153360.0,False,Cyclization/Methylation,True
+LT(Me)PLA(Me)LT(Me)PLA(Me),6840.0,False,Cyclization/Methylation,True
+LPyrA(Me)PLA(Me)LPyrA(Me)PLA(Me),8640.0,False,Cyclization/Methylation,True
+LPyrAPLA(Me)LPyrAPLA(Me),4680.0,False,Cyclization/Methylation,True
+LY(Me)PLA(Me)LY(Me)PLA(Me),14400.0,False,Cyclization/Methylation,True
+LF(Me)PLA(Me)LPyrAPLA(Me),21960.0,False,Cyclization/Methylation,True
+LF(Me)PLA(Me)LPyrAPLA(Me),288.0,False,Cyclization/Methylation,True
+LF(Me)PLA(Me)LT(Me)PLA(Me),16200.0,False,Cyclization/Methylation,True
+LF(Me)PLG(Me)LF(Me)PLG(Me),20880.0,False,Cyclization/Methylation,True
+LF(Me)PGL(Me)LF(Me)PGL(Me),17280.0,False,Cyclization/Methylation,True
+LF(Me)PLA(Me)LF(Me)PGL(Me),15480.0,False,Cyclization/Methylation,True
+LF(Me)PLA(Me)LF(Me)PLD(Me),9000.0,False,Cyclization/Methylation,True
+LF(Me)PLA(Me)LF(Me)PLK(Me),21960.0,False,Cyclization/Methylation,True
+LF(Me)PLA(Me)LF(Me)PLT(Me),99360.0,False,Cyclization/Methylation,True
+HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY- TAMRA,1571760.0,False,Lipidation,True
+HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY- TAMRA,168120.0,False,Lipidation,True
+HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY- TAMRA,1012680.0,False,Lipidation,True
+HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY- TAMRA,52560.0,False,Lipidation,True
+HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY- TAMRA,3917160.0,False,Lipidation,True
+HAPLEPVYPGDNATPEQMAQYAADLRRYINMLTRPRY- TAMRA,42480.0,False,Lipidation,True
+Ac-[PEG8]LLLLRVKR-NH2,14400.0,False,PEGylation,True
+Ac-[C8]LLLLRVKR-NH2,18000.0,False,Lipidation,True
+Ac-[PEG8]lLLLRVKR-NH2,32400.0,False,PEGylation,True
+Ac-[C8]lLLLRVKR-NH2,14400.0,False,Lipidation,True
+Ac-LLLLRVK[Amba],43200.0,False,Unnatural amino acid,True
+Ac-[PEG8]LLLLRVK[Amba],36000.0,False,PEGylation,True
+Ac-lLLLRVK[Amba],64800.0,False,Lipidation,True
+Ac-[C8]lLLLRVK[Amba],36000.0,False,Lipidation/Unnatural amino acid,True
+GluRPRLSHKGPNlePF,942.0,False,Unnatural amino acid,True
+GluRPRFSHKGPNlePF,996.0,False,Unnatural amino acid,True
+GluRPRChaSHKGPNlePF,1338.0000000000002,False,Unnatural amino acid,True
+GluRPRKSHKGPNlePF,546.0,False,Unnatural amino acid,True
+GluRPRESHKGPNlePF,2100.0,False,Unnatural amino acid,True
+GluRPRDLSHKGPMPF,3120.0,False,D-amino acid,True
+GluRPRLDSHKGPMPF,2700.0,False,D-amino acid,True
+GluRPRLSHKGPNlePY(OBn),3960.000000000001,False,Unnatural amino acid,True
+GluRPRLSHKGPNleP(L-a-Me)F,7200.0,False,Unnatural amino acid,True
+GluRPRLSHKGPNlePBpa,3300.0,False,Unnatural amino acid,True
+GluRPRLSHKGPNlePF(4-Me),2580.0,False,Methylation,True
+GluRPRLSHKGPMPDF,780.0,False,D-amino acid,True
+c[CGNKRTRGC]RGDS,86400.0,False,Cyclization,True
+VSADPSR(me)VNAYKSADSRVNST,600.0,False,Methylation,True
+VSADPSRV(me)NAYKSADSRVNST,1440.0,False,Methylation,True
+VSADPSRVN(me)AYKSADSRVNST,2280.0,False,Methylation,True
+VSADPSRVNA(me)YKSADSRVNST,504.00000000000006,False,Methylation,True
+VSADPSRVNAY(me)KSADSRVNST,432000.0,False,Methylation,True
+VSADPSRVNAYK(me)SADSRVNST,43200.0,False,Methylation,True
+VSADPSRVNAYKS(me)ADSRVNST,5760.0,False,Methylation,True
+VSADPSRVNAYKSA(me)DSRVNST,600.0,False,Methylation,True
+VSADPSβRVNAYKSADSRVNST,402.0,False,α-helix,True
+S(βDGlc) KPEAPGEDASPEELNRYYASLRHYLNLVTRQRY-NH2,10560.0,False,Glycosylation,True
+S(βDGlc) KPEAPGEDASPEELNRYYASLRHYLNLVTRQRY-NH2,10080.0,False,Glycosylation,True
+IKPEAPGEDAS(βDGlc)PEELNRYYASLRHYLNLVTRQRY-NH2,9180.0,False,Glycosylation,True
+IKPEAPGEDAS(βDGlc)PEELNRYYASLRHYLNLVTRQRY-NH2,12840.0,False,Glycosylation,True
+IKPEAPGEDASPEELS(βDGlc)RYYASLRHYLNLVTRQRY-NH2,11280.0,False,Glycosylation,True
+IKPEAPGEDASPEELS(βDGlc)RYYASLRHYLNLVTRQRY-NH2,12360.0,False,Glycosylation,True
+IKPEAPGEDASPEELNRYYS(βDGlc)SLRHYLNLVTRQRY-NH2,10080.0,False,Glycosylation,True
+IKPEAPGEDASPEELNRYYS(βDGlc)SLRHYLNLVTRQRY-NH2,9060.0,False,Glycosylation,True
+IKPEAPGEDASPEELNRYYAS(βDGlc)LRHYLNLVTRQRY-NH2,10560.0,False,Glycosylation,True
+IKPEAPGEDASPEELNRYYAS(βDGlc)LRHYLNLVTRQRY-NH2,16260.0,False,Glycosylation,True
+IKPEAPGEDASPEELNRY(βDGlc)YASLRHYLNLVTRQRY-NH2,16140.0,False,Glycosylation,True
+IKPEAPGEDASPEELNRY(βDGlc)YASLRHYLNLVTRQRY-NH2,13860.0,False,Glycosylation,True
+IKPEAPS(βDGal) EDASPEELNRYYASLRHYLNLVTRQRY-NH2,13020.0,False,Glycosylation,True
+IKPEAPS(βDGal) EDASPEELNRYYASLRHYLNLVTRQRY-NH2,10260.0,False,Glycosylation,True
+IKPEAPSEDAS(βDGal) PEELNRYYASLRHYLNLVTRQRY-NH2,9240.0,False,Glycosylation,True
+IKPEAPSEDAS(βDGal) PEELNRYYASLRHYLNLVTRQRY-NH2,12000.0,False,Glycosylation,True
+IKPEAPSEDASPEELNRYYAS(βDGal) LRHYLNLVTRQRY-NH2,9000.0,False,Glycosylation,True
+IKPEAPSEDASPEELNRY(βDGal) YASLRHYLNLVTRQRY-NH2,11820.0,False,Glycosylation,True
+IKPEAPSEDASPEELNRY(βDGal) YASLRHYLNLVTRQRY-NH2,11280.0,False,Glycosylation,True
+IKPEAPSEDASPEELNRYY(βDGal) ASLRHYLNLVTRQRY-NH2,13500.0,False,Glycosylation,True
+IKPEAPSEDASPEELNRYY(βDGal) ASLRHYLNLVTRQRY-NH2,12600.0,False,Glycosylation,True
+Acyl-SCKNTDSRCKARQLELNERTCRCDKPRR,300.0,False,Acylation,True
+WMEWDREINN(Glc)YTSLIHSLIEESQNQQEKNEQELL-NH2,14400.0,False,Glycosylation,True
+VDNKFNKEXCNXRAIEAALDPNLNDQQFHAKIWXIIUDCG-NH2,4080.0,False,α/β peptide,True
+YPFP-NH2,1590.0,False,Unnatural amino acid,True
+YPFcAMP-NH2,900.0,False,Unnatural amino acid,True
+YcAampFP-NH2,822.0,False,Unnatural amino acid,True
+YcAmpFcAmp-NH2,1050.0,False,Unnatural amino acid,True
+HSDAVFTDNYT(βGal)RLRK-QMAVKKYLNSILN,2700.0,False,Glycosylation,True
+Ac-YKK(Kp)(Ahx)ARHYINLITRQRY,10800.0,False,Unnatural amino acid,True
+Ac-K(Kp)KKPYIL,10800.0,False,Unnatural amino acid,True
+R(me)KKYKYRDRK-NH2,32400.0,False,D-amino acid/Methylation,True
+R(me)KKYKYRRKPGP-OH,21600.0,False,Methylation,True
+R(NO2)KKYKYRRK-NH2,7200.0,False,Nitro group,True
+R(CH2NH)KKYKYRDRK-NH2,32400.0,False,Pseudopeptide bond,True
+R(CH2NH)KKYKYRRKPGP-OH,21600.0,False,Pseudopeptide bond,True
+c[RKKYKYRRK],43200.0,False,Cyclization,True
+GDGDMDADLDKDLDLDKDKDVDL-NH2,86400.0,False,D-amino acid,True
+GDFGMALKLLKKVL-NH2,86400.0,False,D-amino acid,True
+GFDKMALKLLKKVL-NH2,3600.0,False,D-amino acid/Amino acid substitution,True
+GFGMALOLLOOVL-NH2,21600.0,False,Amino acid substitution,True
+DAFGMALKLLKKVL-NH2,86400.0,False,D-amino acid/Amino acid substitution,True
+DAFKMALKLLKKVL-NH2,86400.0,False,D-amino acid/Amino acid substitution,True
+DADFKMALKLLKKVL-NH2,28800.0,False,D-amino acid/Amino acid substitution,True
+C[BLGTYTQDFNXFHTFPQTAIGVGAP],46440.0,False,Cyclization,True
+C[BLGTYTQDFNXFHTFPQTAIGVGAP],19860.0,False,Cyclization,True
+"H-KKWb2,2WKK-NH2",86400.0,False,Unnatural amino acid,True
+Ac-vpkGwrfhemsys-NH2,172800.0,False,Retro-peptide,True
+TTP3-YRFK-NH2,2760.0,False,Amino acid substitution,True
+TPP6-YRFK-NH2,4200.0,False,Amino acid substitution,True
+YDRFK-NH2,52740.0,False,D-amino acid,True
+PEG-LVPRLVPR HbEGTFTSDVSSYLEGQAAKEFIAWLVKbRNH2,45360.0,False,PEGylation,True
+PEG-LVPR- HbEGTFTSDVSSYLEGQAAKEFIAWLVKbRNH2,288000.0,False,PEGylation,True
+PEG-LDPR- HbEGTFTSDVSSYLEGQAAKEFIAWLVKbRNH2,275040.0,False,PEGylation,True
+PEG-LVPRLVPR-KCNTATCATQRLANFLVHSSNNFGAILSSTNVGSNTY-NH₂,26640.0,False,PEGylation,True
+PEG-LVPR- KCNTATCATQRLANFLVHSSNNFGAILSSTNVGSNTY-NH₂,42480.0,False,PEGylation,True
+PEG-LDPR- KCNTATCATQRLANFLVHSSNNFGAILSSTNVGSNTY-NH₂,38160.0,False,PEGylation,True
+PEG-LVPRLVPR KCNTATCATQRLANFLVHSSNNFGPILPPTNVGSNTY-NH2,18000.0,False,PEGylation,True
+PEG-LVPR- KCNTATCATQRLANFLVHSSNNFGPILPPTNVGSNTY-NH2,23760.0,False,PEGylation,True
+PEG-LDPR- KCNTATCATQRLANFLVHSSNNFGPILPPTNVGSNTY-NH2,32400.0,False,PEGylation,True
+C16H31O-KKLFKKILKYL-NH2,7200.0,False,Lipidation,True
+C16H31O-GGKKLFKKILKYL-NH2,7200.0,False,Lipidation,True
+Glu-YPFF-NH2,3438.0,False,Glycosylation,True
+c[MCMPCFTTDHQMARKCDDCCGGKGRGKCYGPQCLCRGAGAAGG],39600.0,False,Cyclization,True
+L14-HGEGYFYSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPSGGGKCNTATCVLGRLSQELHRLQTYPRTNTGSNTY,3000.0,False,Lipidation,True
+L14-HGEGYFYSDLSKQMEEEAVRLFIEWLKNGGPSSGAPPPSGGGKCNTATCVLGRLSQELHRLQTYPRTNTGSNTY,4320.0,False,Lipidation,True
+Acetyl-CiS1W2P3A4R5CiiL6H7Q8D9L10Ciii,86400.0,False,Amino acid substitution,True
+Acetyl-CiS1W2P3A4R5CiiL6H7Q8D9L10Ciii,172800.0,False,Amino acid substitution,True
+Acetyl-CiS1F2Aze3Y4R5CiiaLA(Me)6H7Q8D9L10Ciii,86400.0,False,Amino acid substitution/Methylation,True
+Acetyl-CiS1F2Aze3Y4R5CiiaLA(Me)6H7Q8D9L10Ciii,5400.0,False,Amino acid substitution/Methylation,True
+Acetyl-CiS1F2Aze3Y4R5CiiaLA(Me)6H7Q8D9L10Ciii,10080.0,False,Amino acid substitution/Methylation,True
+Acetyl-CiS1F2Aze3Y4R5CiiaLA(Me)6H7Q8D9L10Ciii,25200.0,False,Amino acid substitution/Methylation,True
+c[XRPRX]cSHKGPNlePF,2880.0,False,Cyclization/Unnatural amino acid,True
+Pyrc[RxPRLX]cHKGPNlePF,7920.000000000001,False,Cyclization/Unnatural amino acid,True
+PyrRc[XRLSX]cKGPNlePF,14040.0,False,Cyclization/Unnatural amino acid,True
+PyrRPc[RxLSHX]cGPNlePF,27720.0,False,Cyclization/Unnatural amino acid,True
+PyrRPRLSc[XKGPX]cPF,23760.0,False,Cyclization,True
+PyrRPRLSHc[XGPNleX]cF,16560.0,False,Cyclization/Unnatural amino acid,True
+PyrRPRLSHKc[XPNlePX]c,30960.0,False,Cyclization/Unnatural amino acid,True
+XXGDWPC-NH2,9000.0,False,"deamino, NH2",True
+HSDGTFTSELSRLREGARLQRLLQGLV-NH2,2700.0,False,"H, NH2",True
+Ac-SDAAVDTSSEITTKDLKEKKEVVEEAEN,7200.0,False,"acetyl, OH",True
+HAEGTFTSDVSSYLEGQAAK(EX)EFIAWLVRGRG,46800.0,False,"H, OH",True
+KCNTATCATQRLANFLVHSSNNFGPILPPTNVGSNTY-NH2,2880.0,False,"H, NH2",True
+GGGCYFQNCPKG-NH2,3000.0,False,"H, NH2",True
+XKP,168120.0,False,"4-phenylbutanoyl, OH",True
+XHWSYXLRPG-NH2,10800.0,False,"pyroglutamyl, NH2",True
+Ac-XXXSYXLRPa-NH2,226080.0,False,"acetyl, NH2",True
+Ac-XXXSYXLXPa-NH2,58320.0,False,"acetyl, NH2",True
+XXITNCPXG-NH2,6120.0,False,"deamino, NH2",True
+XHP,7140.0,False,"1-methyl-2,6-dioxohexahydropyrimidyl, NH2",True
+XXIQNCPLG-NH2,2400.0,False,"butyril , NH2",True
+C(1)KGKGAKC(2)SRLMYDC(3)C(1)TGSC(2)RSGKC(3)-NH2,16560.0,False,"H, NH2",True
+XAXAX,64800.0,False,"N-acetylmuramoyl, dipalmitoyl phosphatidyl ethanolamine",True
+XXXwKXF,43200.0,False,"cycle, cycle",True
+Ac-SYSXEHfRWGKPV-NH2,1800.0,False,"acetyl, NH2",True
+-,882000.0,False,"CH3, OH",True
+DXMGWMDF-NH2,120.0,False,"H, NH2",True
+H-XEGTFTSDVSSYLEGQAAK-(XXEX)-EFIAWLVRGRG,604800.0,False,"H, OH",True
+Ac-XDHfRWK,9720.0,False,"acetyl, OH",True
+gGlu-CG,600.0,False,"H, OH",True
+-,6900.0,False,"N.A., N.A.",True
+XXT-XX(1)XlLXXT(1),18000.0,False,"5-methyl-heptanoyl, cycle",True
+XXXXVXAaXXX,68400.0,False,"cycle, cycle",True
+vPXXTXTXXPv,129600.0,False,"2-amino-4,6-dimethyl-3-oxo-3H-phenoxazine-1,9-dicarbonyl , cycle",True
+vcXVXX,10800.0,False,"cycle, cycle",True
+HSDGTFTSELSRLRDSARLQRLLQGLV-NH2,1620.0,False,"H, NH2",True
+-,21600.0,False,"CH3, OH",True
+XwX,14759.999999999998,False,"H, N-1-(formylamino)-2-(1H-indol-3-yl)ethyl]-acetate",True
+XFCYWKTCT,4080.0,False,"DOTA, OH",True
+-,1245600.0,False,"CH3, N.A.",True
+XXGGG,21672.0,False,"benzoyl-deamino-Cys, OH",True
+XFCYWKTCX,4080.0,False,"DOTA, 2-aminobutane-1,3-diol",True
+-,19800.0,False,"5-methyl-pyrazinoyl, cyclopropanesulfonamide",True
+-,111600.0,False,"cycle, cyclopropanesulfonamide",True
+-,118800.0,False,"cycle, cyclopropanesulfonamide",True
+XFCYWKTCT,45720.0,False,"DOTA, OH",True
+XXXXVXAaXXX,108000.0,False,"cycle, cycle",True
+HSQGTFTSDYSKYLDXARAEEFVKWLEST,1800.0,False,"H, OH",True
+-,8496.0,False,"small molecule, OH",True
+GXE,5400.0,False,"H, OH",True
+Ac-KVERFDXXYXEYPXKXgX,619200.0,False,"acetyl, OH",True
+X-GXX,28440.0,False,"1-(5-(2-methylpyrimidin-5-yl)-1H-indazol-3-yl)ethan-1-one, 6-bromopyridin-2-amine",True
