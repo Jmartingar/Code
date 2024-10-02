@@ -1,0 +1,146 @@
+sequence,half_life_seconds,modifications,is_mod
+(PEG)2-KWKLFKKIFKRIVQRIKDFLR-NH2,3600.0,PEGylation,True
+N.A.,10800.0,Cyclization/Methylation,True
+Ac-KLKLKLKLKLKLKLKLKKLKKLKKLKKLKKLKKLKKL-NH2,64800.0,Branched,True
+Ac-IWIAQELRXIGDXFNAYYARR-NH2,56880.0,Stapled,True
+Ac-FMHNLWKWLSSMERVEWLRKKLQDVHNF-NH2,5400.0,α to β replacement,True
+Ac-YGGF-Hic-NH2,198.0,Hydroxy isocaproic acid,True
+Ac-YGGFL-NH2,641.9999999999999,Methylation,True
+MTWFEYLSGSK,5400.0,Cyclization,True
+Ac-NSGLSFEES5YRNS5YTMVLHK-NH2,79200.0,Unnatural amino acid,True
+Ac-NSGLSFES5LYRS5AYTMVLHK-NH2,79200.0,Unnatural amino acid,True
+Ac-NSGLS5FEES5YRNAYTMVLHK-NH2,25200.0,Unnatural amino acid,True
+HYNIC-DDWAVGHDF-NHMe,600.0,Methylation,True
+HYNIC-DDWAVGHDY-NHMe,900.0,Methylation,True
+Ac-[CMPRLRGC]c-NH2,4176.0,Cyclization,True
+Ac-[cMPRLRGC]c-NH2,10908.0,Cyclization,True
+Ac-[D-“Pen”M“Thz”RLRGC]c-NH2,6804.0,Cyclization/D-amino acid/Propionylation,True
+Pr-[cM“Thz”RLRG“Pen”]c-NH2,15371.999999999998,Cyclization/Propionylation,True
+Pr-[cM“Thz”RLR“Sar”“Pen”]c-NH2,15659.999999999998,Cyclization/Propionylation,True
+Pr-[cM“Pip”RLR“Sar”C]c-NH2,23976.0,Cyclization/Propionylation,True
+Pr-[cM“Pip”RLRG“Pen”]c-NH2,14508.0,Cyclization/Propionylation,True
+Pr-[cM“Pip”RLR“Sar”“Pen”]c-NH2,36000.0,Cyclization/Propionylation,True
+Ac-y-e9-x-PLGLAG-r9-x-k-(DOTA)-NH2,7068.0,Albumin,True
+VβEPβNCDIHVIleWβEWECFERβL-NH2,1440.0,β-peptide,True
+βVEβPNCDIHVIleβWEWβECFERβL-NH2,18000.0,β-peptide,True
+RRRRR5RRRRRRS8,186.0,Stapled,True
+S5RRRB5RRRRRRS8,3840.0,Stitched,True
+MDYKDDDDKGSGSTLDD(O2beY)EEMDGCSDT,21600.0,Cyclization,True
+MDYKDDDDKGSGSTLDW(O2beY)EEMDMCTDT,21600.0,Cyclization,True
+MDYKDDDDKGSGSTLSW(O2beY)EAMDMCTDT,21600.0,Cyclization,True
+CF-KPVSLSYRCPCRFFESHVARANVKHLKILNTPNCALQIVARLKNNNRQVCIDPKLKWIQEYLEKALNK-FA,954.0,Lipidation,True
+LF(Me)PLA(Me)LF(Me)PLA(Me),153360.0,Cyclization/Methylation,True
+LT(Me)PLA(Me)LT(Me)PLA(Me),6840.0,Cyclization/Methylation,True
+LPyrA(Me)PLA(Me)LPyrA(Me)PLA(Me),8640.0,Cyclization/Methylation,True
+LPyrAPLA(Me)LPyrAPLA(Me),4680.0,Cyclization/Methylation,True
+LY(Me)PLA(Me)LY(Me)PLA(Me),14400.0,Cyclization/Methylation,True
+LF(Me)PLA(Me)LT(Me)PLA(Me),16200.0,Cyclization/Methylation,True
+LF(Me)PLG(Me)LF(Me)PLG(Me),20880.0,Cyclization/Methylation,True
+LF(Me)PGL(Me)LF(Me)PGL(Me),17280.0,Cyclization/Methylation,True
+LF(Me)PLA(Me)LF(Me)PGL(Me),15480.0,Cyclization/Methylation,True
+LF(Me)PLA(Me)LF(Me)PLD(Me),9000.0,Cyclization/Methylation,True
+LF(Me)PLA(Me)LF(Me)PLK(Me),21960.0,Cyclization/Methylation,True
+LF(Me)PLA(Me)LF(Me)PLT(Me),99360.0,Cyclization/Methylation,True
+Ac-[PEG8]LLLLRVKR-NH2,14400.0,PEGylation,True
+Ac-[C8]LLLLRVKR-NH2,18000.0,Lipidation,True
+Ac-[PEG8]lLLLRVKR-NH2,32400.0,PEGylation,True
+Ac-[C8]lLLLRVKR-NH2,14400.0,Lipidation,True
+Ac-LLLLRVK[Amba],43200.0,Unnatural amino acid,True
+Ac-[PEG8]LLLLRVK[Amba],36000.0,PEGylation,True
+Ac-lLLLRVK[Amba],64800.0,Lipidation,True
+Ac-[C8]lLLLRVK[Amba],36000.0,Lipidation/Unnatural amino acid,True
+GluRPRLSHKGPNlePF,942.0,Unnatural amino acid,True
+GluRPRFSHKGPNlePF,996.0,Unnatural amino acid,True
+GluRPRChaSHKGPNlePF,1338.0000000000002,Unnatural amino acid,True
+GluRPRKSHKGPNlePF,546.0,Unnatural amino acid,True
+GluRPRESHKGPNlePF,2100.0,Unnatural amino acid,True
+GluRPRDLSHKGPMPF,3120.0,D-amino acid,True
+GluRPRLDSHKGPMPF,2700.0,D-amino acid,True
+GluRPRLSHKGPNlePY(OBn),3960.000000000001,Unnatural amino acid,True
+GluRPRLSHKGPNleP(L-a-Me)F,7200.0,Unnatural amino acid,True
+GluRPRLSHKGPNlePBpa,3300.0,Unnatural amino acid,True
+GluRPRLSHKGPNlePF(4-Me),2580.0,Methylation,True
+GluRPRLSHKGPMPDF,780.0,D-amino acid,True
+c[CGNKRTRGC]RGDS,86400.0,Cyclization,True
+CGNKRTRGCRCVCRRGDSCRCV,86400.0,Cyclization,True
+CGNKRTRGCRCVCRGDSCR,86400.0,Cyclization,True
+VSADPSAVNAYKSADSRVNST,210.0,Amino acid substitution,True
+VSADPSRANAYKSADSRVNST,960.0,Amino acid substitution,True
+VSADPSRVAAYKSADSRVNST,462.0,Amino acid substitution,True
+VSADPSRVNAAKSADSRVNST,432000.0,Amino acid substitution,True
+VSADPSRVNAYASADSRVNST,300.0,Amino acid substitution,True
+VSADPSRVNAYKAADSRVNST,540.0,Amino acid substitution,True
+VSADPSDRVNAYKSADSRVNST,600.0,D-amino acid,True
+VSADPSRDVNAYKSADSRVNST,32400.0,D-amino acid,True
+VSADPSRVDNAYKSADSRVNST,13680.0,D-amino acid,True
+VSADPSRVNDAYKSADSRVNST,432000.0,D-amino acid,True
+VSADPSRVNADYKSADSRVNST,154800.0,D-amino acid,True
+VSADPSRVNAYDKSADSRVNST,8280.0,D-amino acid,True
+VSADPSRVNAYKDSADSRVNST,6480.0,D-amino acid,True
+VSADPSRVNAYKSDADSRVNST,636.0,D-amino acid,True
+VSADPSR(me)VNAYKSADSRVNST,600.0,Methylation,True
+VSADPSRV(me)NAYKSADSRVNST,1440.0,Methylation,True
+VSADPSRVN(me)AYKSADSRVNST,2280.0,Methylation,True
+VSADPSRVNA(me)YKSADSRVNST,504.00000000000006,Methylation,True
+VSADPSRVNAY(me)KSADSRVNST,432000.0,Methylation,True
+VSADPSRVNAYK(me)SADSRVNST,43200.0,Methylation,True
+VSADPSRVNAYKS(me)ADSRVNST,5760.0,Methylation,True
+VSADPSRVNAYKSA(me)DSRVNST,600.0,Methylation,True
+VSADPSβRVNAYKSADSRVNST,402.0,α-helix,True
+IKPEAPSEDASPEELNRYYAS(βDGal) LRHYLNLVTRQRY-NH2,9000.0,Glycosylation,True
+LAEAKGCSAKTAKP,60.0,Amino acid substitution ,True
+Acyl-SCKNTDSRCKARQLELNERTCRCDKPRR,300.0,Acylation,True
+WMEWDREINN(Glc)YTSLIHSLIEESQNQQEKNEQELL-NH2,14400.0,Glycosylation,True
+VDNKFNKEXCNXRAIEAALDPNLNDQQFHAKIWXIIUDCG-NH2,4080.0,α/β peptide,True
+KRIVQRIKDFLR,300.0,Amino acid substitution,True
+KRIVQAIKDFLR,120.0,Amino acid substitution,True
+KRIVQKIKDFLR,90.0,Amino acid substitution,True
+KRIVQRIKDFLA,90.0,Amino acid substitution,True
+KRIVQRIKDFLK,90.0,Amino acid substitution,True
+YPFP-NH2,1590.0,Unnatural amino acid,True
+YPFcAMP-NH2,900.0,Unnatural amino acid,True
+YcAampFP-NH2,822.0,Unnatural amino acid,True
+YcAmpFcAmp-NH2,1050.0,Unnatural amino acid,True
+HSDAVFTDNYT(βGal)RLRK-QMAVKKYLNSILN,2700.0,Glycosylation,True
+Ac-YKK(Kp)(Ahx)ARHYINLITRQRY,10800.0,Unnatural amino acid,True
+Ac-K(Kp)KKPYIL,10800.0,Unnatural amino acid,True
+R(me)KKYKYRDRK-NH2,32400.0,D-amino acid/Methylation,True
+R(me)KKYKYRRKPGP-OH,21600.0,Methylation,True
+R(NO2)KKYKYRRK-NH2,7200.0,Nitro group,True
+R(CH2NH)KKYKYRDRK-NH2,32400.0,Pseudopeptide bond,True
+R(CH2NH)KKYKYRRKPGP-OH,21600.0,Pseudopeptide bond,True
+c[RKKYKYRRK],43200.0,Cyclization,True
+GDGDMDADLDKDLDLDKDKDVDL-NH2,86400.0,D-amino acid,True
+GDFGMALKLLKKVL-NH2,86400.0,D-amino acid,True
+GFDKMALKLLKKVL-NH2,3600.0,D-amino acid/Amino acid substitution,True
+GFGMALOLLOOVL-NH2,21600.0,Amino acid substitution,True
+DAFGMALKLLKKVL-NH2,86400.0,D-amino acid/Amino acid substitution,True
+DAFKMALKLLKKVL-NH2,86400.0,D-amino acid/Amino acid substitution,True
+DADFKMALKLLKKVL-NH2,28800.0,D-amino acid/Amino acid substitution,True
+"H-KKWb2,2WKK-NH2",86400.0,Unnatural amino acid,True
+Ac-vpkGwrfhemsys-NH2,172800.0,Retro-peptide,True
+TTP3-YRFK-NH2,2760.0,Amino acid substitution,True
+TPP6-YRFK-NH2,4200.0,Amino acid substitution,True
+YDRFK-NH2,52740.0,D-amino acid,True
+PEG-LVPRLVPR HbEGTFTSDVSSYLEGQAAKEFIAWLVKbRNH2,45360.0,PEGylation,True
+PEG-LVPR- HbEGTFTSDVSSYLEGQAAKEFIAWLVKbRNH2,288000.0,PEGylation,True
+PEG-LDPR- HbEGTFTSDVSSYLEGQAAKEFIAWLVKbRNH2,275040.0,PEGylation,True
+PEG-LVPRLVPR-KCNTATCATQRLANFLVHSSNNFGAILSSTNVGSNTY-NH₂,26640.0,PEGylation,True
+PEG-LVPR- KCNTATCATQRLANFLVHSSNNFGAILSSTNVGSNTY-NH₂,42480.0,PEGylation,True
+PEG-LDPR- KCNTATCATQRLANFLVHSSNNFGAILSSTNVGSNTY-NH₂,38160.0,PEGylation,True
+PEG-LVPRLVPR KCNTATCATQRLANFLVHSSNNFGPILPPTNVGSNTY-NH2,18000.0,PEGylation,True
+PEG-LVPR- KCNTATCATQRLANFLVHSSNNFGPILPPTNVGSNTY-NH2,23760.0,PEGylation,True
+PEG-LDPR- KCNTATCATQRLANFLVHSSNNFGPILPPTNVGSNTY-NH2,32400.0,PEGylation,True
+ATWLPPR,79920.0,Cyclization,True
+C16H31O-KKLFKKILKYL-NH2,7200.0,Lipidation,True
+C16H31O-GGKKLFKKILKYL-NH2,7200.0,Lipidation,True
+SLRRSSCFGGRMDRIGAQSGLGCNSFRYRITAREDKQGWA,270.0,frameshit,True
+Glu-YPFF-NH2,3438.0,Glycosylation,True
+c[MCMPCFTTDHQMARKCDDCCGGKGRGKCYGPQCLCRGAGAAGG],39600.0,Cyclization,True
+c[XRPRX]cSHKGPNlePF,2880.0,Cyclization/Unnatural amino acid,True
+Pyrc[RxPRLX]cHKGPNlePF,7920.000000000001,Cyclization/Unnatural amino acid,True
+PyrRc[XRLSX]cKGPNlePF,14040.0,Cyclization/Unnatural amino acid,True
+PyrRPc[RxLSHX]cGPNlePF,27720.0,Cyclization/Unnatural amino acid,True
+PyrRPRLSc[XKGPX]cPF,23760.0,Cyclization,True
+PyrRPRLSHc[XGPNleX]cF,16560.0,Cyclization/Unnatural amino acid,True
+PyrRPRLSHKc[XPNlePX]c,30960.0,Cyclization/Unnatural amino acid,True
